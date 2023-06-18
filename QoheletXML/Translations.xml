@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.tei-c.org/ns/1.0" type="translation">
+   <div n="1" type="chapter">
+      <ab n="1" xml:lang="ita">Parole di Qohelet, figlio di Davide, re in Gerusalemme.</ab>
+      <ab n="1" xml:lang="en">Words of Qohelet, son of David, king in Jerusalem.</ab>
+      <ab n="2" xml:lang="ita">Vanità di vanità, ha detto il Qohelet, vanità di vanità, tutto è vanità.</ab>
+      <ab n="2" xml:lang="en">Vanity of vanities, says the Qohelet, vanity of vanities, all is vanity.</ab>
+      <ab n="3" xml:lang="ita">Quale utile è all'uomo in tutta <seg type="Var">la fatica</seg> che fatica sotto il sole? </ab>
+      <ab n="3" xml:lang="en">What gain is it to man in all <seg corresp="#app-1-1-a">the toil</seg> that he toils under the sun? </ab>
+      <ab n="4" xml:lang="ita">Una generazione va e una generazione viene, eppure la terra sta sempre ferma.</ab>
+      <ab n="4" xml:lang="en">A generation comes and a generation goes, yet the earth remains forever.</ab>
+      <ab n="5" xml:lang="ita">E sorge il sole e tramonta il sole e verso il suo luogo anela – egli sorge lì.</ab>
+      <ab n="5" xml:lang="en">And the sun rises, and the sun sets, and to his place he yearns <seg type="expun">he rises there</seg>.</ab>
+      <ab n="6" xml:lang="ita">Va verso sud e gira verso nord; girando girando va il vento e sui suoi giri torna il vento.</ab>
+      <ab n="6" xml:lang="en">It goes towards south and turns towards north; turning turning goes the wind and on its turns returns the wind.</ab>
+      <ab n="7" xml:lang="ita">Tutti i fiumi vanno verso il mare e il mare non è mai pieno; verso il luogo in cui i fiumi vanno, lì essi tornano ad
+         andare.</ab>
+      <ab n="7" xml:lang="en">All rivers go to the sea and the sea is never filled; to the place where rivers go, there they return to go.</ab>
+      <ab n="8" xml:lang="ita">Tutte le parole sono esaurite, l'uomo non potrà parlare; non si sazierà l'occhio di vedere e non si riempirà l'orecchio
+         di ascoltare.</ab>
+      <ab n="8" xml:lang="en">All words are exhausted, man will not be able to speak; the eye will not be sated in seeing and the ear not filled with hearing.</ab>
+      <ab n="9" xml:lang="ita">Ciò che è stato è ciò che sarà e ciò che è stato fatto è ciò che sarà fatto e non c'è nulla di nuovo sotto il
+         sole.</ab>
+      <ab n="9" xml:lang="en">What has been is what will be and what has been done is what will be done and there is nothing new under the sun.</ab>
+      <ab n="10" xml:lang="ita">C'è un discorso che potrebbe dire: Guarda, questo è nuovo! (Ma) È già stato negli eoni che furono prima di noi.</ab>
+      <ab n="10" xml:lang="en">There is a saying that might say: <quote>Look, this is new!</quote> (But) It has already been in the eons that were before us.</ab>
+      <ab n="11" xml:lang="ita">Non c'è memoria degli antichi, e anche dei posteri che saranno, non ci sarà memoria di loro, così come di coloro che
+         verranno dopo (ancora).</ab>
+      <ab n="11" xml:lang="en">There is no memory of the ancients, and also of the descendants who will be, there will be no memory of them, just as with those who will come after (still).</ab>
+      <ab n="12" xml:lang="ita">Io sono Qohelet, sono stato re su Israele in Gerusalemme.</ab>
+      <ab n="12" xml:lang="en">I am Qohelet, I was king over Israel in Jerusalem.</ab>
+      <ab n="13" xml:lang="ita">E ho dato il mio cuore a indagare ed esplorare tramite la sapienza su tutto ciò è stato fatto sotto il sole – è una
+         brutta occupazione (che) Dio ha dato agli uomini per occuparsene.</ab>
+      <ab n="13" xml:lang="en">And I have given my heart to investigate and explore through wisdom all that has been done under the sun – it is a hard
+         occupation (that) God has given men to be occupied with.</ab>
+      <ab n="14" xml:lang="ita">Ho visto tutti gli atti che sono stati compiuti sotto il sole, ed ecco: tutto è vanità e un inseguire il vento.</ab>
+      <ab n="14" xml:lang="en">I have seen all the deeds that have been done under <pb/> the sun, and behold: it is all vanity and chasing of wind.</ab>
+      <ab n="15" xml:lang="ita">Ciò che è storto non può diventar dritto e ciò che manca non può essere contato.</ab>
+      <ab n="15" xml:lang="en">What is crooked cannot become straight and what is missing cannot be counted.</ab>
+      <ab n="16" xml:lang="ita">Ho parlato con il mio cuore dicendo: <quote>io, ecco, ho accresciuto e aumentato la sapienza più di chiunque sia stato
+            prima di me in Gerusalemme; e il mio cuore ha visto molta sapienza e conoscenza.</quote></ab>
+      <ab n="16" xml:lang="en">I have spoken with my heart, saying: <quote>I, behold, I have amplified and increased wisdom more than anyone who was
+            before me <seg corresp="#app-1-16-d">in Jerusalem</seg>; and my heart has seen much wisdom and knowledge.</quote>
+      </ab>
+      <ab n="17" xml:lang="ita"><quote>E che io conceda al mio cure di conoscere sapienza e conoscenza, follia e insensatezza.</quote> Ho scoperto che
+         questo, pure, è preoccuparsi del vento.</ab>
+      <ab n="17" xml:lang="en"><quote>And may I grant my heart to know wisdom <seg corresp="#app-1-17-a">and knowledge</seg>, 
+         folly <seg corresp="#app-1-17-c">and senselessness</seg>.</quote> I have found that this
+         too is a worrying about wind.</ab>
+      <ab n="18" xml:lang="ita">Perché nell'eccesso di saggezza c'è eccesso di esasperazione, e chi aumenti la sapienza aumenta il dolore.</ab>
+      <ab n="18" xml:lang="en">For in the excess of wisdom there is excess of torment, and he who increases wisdom increases
+         sorrow.</ab>
+   </div>
+   <div n="2" xml:lang="ita">
+      <ab n="1" xml:lang="ita">Io ho detto nel mio cuore: <quote>Suvvia! Lascia che ti metta alla prova con la gioia, e considera il bene (che ne
+            deriva)!</quote> Ma ecco, anche questo è vanità.</ab>
+      <ab n="1" xml:lang="en">I said in my heart: <quote>Come! Let me put you to the test with joy, and consider the good (that comes from it)!</quote> But
+         behold, even this is vanity.</ab>
+      <ab n="2" xml:lang="ita">Al riso ho detto: <quote>Folle!</quote> E alla gioia: <quote>Cosa fa?</quote>.</ab>
+      <ab n="2" xml:lang="en">To laughter, I said: <quote>Mad!</quote> And to joy, <quote>What does it accomplish?</quote>.</ab>
+      <ab n="3" xml:lang="ita">E ho ricercato con il mio cuore come attirare con il vino la mia carne – mentre il mio cuore si conduce con sapienza –
+         e come attenermi all'insensatezza, fino a quando non vedessi quale bene è agli uomini, che possano compiere sotto il cielo nel numero di
+         giorni della loro vita.</ab>
+      <ab n="3" xml:lang="en">And I researched with my heart how to lure my flesh with wine – while my heart conducts itself with wisdom – and how to
+         abide in foolishness, until I saw what good it is to men, that they may do under he sky in the number of days of their life.</ab>
+      <ab n="4" xml:lang="ita">Ho magnificato le mie opere, mi son costruito case, mi son piantato vigne.</ab>
+      <ab n="4" xml:lang="en">I magnified my works, built houses for myself, planted vineyards for myself.</ab>
+      <ab n="5" xml:lang="ita">Mi son fatto giardini e parchi e vi ho piantato un albero per ogni frutto.</ab>
+      <ab n="5" xml:lang="en">I made for myself gardens and parks and planted in them a tree for every fruit.</ab>
+      <ab n="6" xml:lang="ita">Mi son fatto vasche di acqua dalle quali irrigare una foresta rigogliosa d'alberi.</ab>
+      <ab n="6" xml:lang="en">I made for myself pools of water from which to irrigate a forest sprouting with trees.</ab>
+      <ab n="7" xml:lang="ita">Ho acquistato servi e serve e schiavi nati in casa; ho avuto anche bestiame – armenti e greggi; ho avuto più di tutti
+         quelli che furono prima di me in Gerusalemme.</ab>
+      <ab n="7" xml:lang="en">I bought servants and maidservants and home-born slaves; I also had livestock – herds and flocks; I had more than all those
+         who were before me in Jerusalem.</ab>
+      <ab n="8" xml:lang="ita">Ho ammassato per me anche argento e oro e tesoro di re e delle province; mi son fatto cantori e cantrici, e delizie degli
+         uomini <seg type="crux"><hi rend="italics">šiddah</hi> e <hi rend="italics">šiddot</hi></seg>.</ab>
+      <ab n="8" xml:lang="en">I amassed for myself also silver and gold and treasure of kings and of the provinces; 
+         I made myself songsters and songstresses, and delights of men, <seg type="crux"><hi rend="italics">šiddah</hi> and <hi rend="italics">šiddot</hi></seg>.</ab>
+      <ab n="9" xml:lang="ita">E mi son ingrandito e accresciuto più di chiunque sia stato prima di me in Gerusalemme; anche la mia sapienza stava con
+         me.</ab>
+      <ab n="9" xml:lang="en">And I expanded and increased more than anyone who was before me in Jerusalem; even my wisdom  was with me.</ab>
+      <ab n="10" xml:lang="ita">E tutto ciò che chiedevano i miei occhi, non l'ho negato loro; non ho privato il mio cuore di nessuna gioia, perché il
+         mio cuore gioisce di ogni mia fatica e questo era la mia parte di ogni mia fatica.</ab>
+      <ab n="10" xml:lang="en">And all that my eyes demanded, I did not deny them; I did not <pb/> deprive my heart of any joy, for my heart rejoices 
+         <seg corresp="#app-1-10-b">in all</seg> my toil, and this was my portion of all my toil.</ab>
+      <ab n="11" xml:lang="ita">E io mi son volto a tutte le opere che le mie mani avevano compiuto e alla fatica che avevo faticato a compiere, ed
+         ecco: tutto è vanità e un inseguire il vento, e non c'è utile sotto il sole.</ab>
+      <ab n="11" xml:lang="en">And I turned to all the works that my hands had done and the toil I had toiled to accomplish, and behold: all is vanity
+         and a chasing after wind, and there is no gain under the sun.</ab>
+      <ab n="12" xml:lang="ita">E io mi son volto a considerare la sapienza e la follia e insensatezza, perché cosa è l'uomo che verrà <seg
+            type="crux">dopo il re il quale loro già hanno fatto</seg>?</ab>
+      <ab n="12" xml:lang="en">And I turned to consider wisdom and folly and senselessness, for what is the man who is to come <seg type="crux">after
+            the king whom they have <seg corresp="#app-2-12-f">–</seg> made</seg>?</ab>
+      <ab n="13" xml:lang="ita">E io ho visto che c'è un utile alla sapienza rispetto all'insensatezza, come l'utile della luce sulla tenebra.</ab>
+      <ab n="13" xml:lang="en">And I have seen that there is a gain to wisdom over foolishness, like the gain of light over darkness.</ab>
+      <ab n="14" xml:lang="ita">Il sapiente, i suoi occhi sono nella sua testa, mentre lo stolto procede nella tenebra; eppure io so anche che un
+         unico caso capiterà a tutti loro.</ab>
+      <ab n="14" xml:lang="en">The wise man, his eyes are in his head, while the fool proceeds in darkness; yet I also know that a single fate will befall them all.</ab>
+      <ab n="15" xml:lang="ita">E io ho detto in cuor mio: <quote>Come il fato dello stolto, (così) anche a me capiterà; e perché allora io sono
+            diventato più sapiente?</quote> E io ho parlato in cuor mio che anche questo è vanità.</ab>
+      <ab n="15" xml:lang="en">And I said to my heart: <quote>Like the fate of the fool, (so) shall it also happen to me; and how then have I become wiser?</quote> 
+         And I have said in my heart that this too is vanity.</ab>
+      <ab n="16" xml:lang="ita">Perché non c'è memoria del sapiente così come dello stolto per l'eternità, perché già nei giorni trascorsi tutto è
+         stato dimenticato, persino come il sapiente muore al pari dello stolto.</ab>
+      <ab n="16" xml:lang="en">For there is no memory in the wise man, just as in the fool, of eternity,  
+         for already in the days that have passed all has been forgotten; even how the wise man dies just as the fool.</ab>
+      <ab n="17" xml:lang="ita">Allora io ho odiato la vita perché per me era male tutto ciò che si fa sotto il sole, perché tutto è vanità e un
+         inseguire il vento.</ab>
+      <ab n="17" xml:lang="en">And I hated life because everything that is done under the sun was bad for me, because everything is vanity and a chasing of the wind.</ab>
+      <ab n="18" xml:lang="ita">E ho odiato tutta la mia fatica che io fatico sotto il sole, che lascerò all'uomo che verrà dopo di me.</ab>
+      <ab n="18" xml:lang="en">And I hated all my toil that I toil under the sun, which I will leave to the man who will come after me.</ab>
+      <ab n="19" xml:lang="ita">E chi sa se sarà saggio o insensato? Eppure disporrà di tutta la fatica che ho faticato e per cui sono diventato
+         sapiente. Anche questo è vanità.</ab>
+      <ab n="19" xml:lang="en">And who knows whether he will be wise or senseless? Yet he will have control over all the labour I have toiled over and
+         for which I have become wise. This too is vanity.</ab>
+      <ab n="20" xml:lang="ita">Mi sono distolto allora dall'esasperare il mio cuore con tutta la fatica che ho faticato sotto il sole.</ab>
+      <ab n="20" xml:lang="en">I then turned away from exasperating my heart with all the effort I had put in under the sun.</ab>
+      <ab n="21" xml:lang="ita">Perché c'è un uomo la cui fatica è in sapienza e conoscenza e abilità, e a un uomo che non ha faticato in essa dovrà
+         lasciare la sua parte: anche questo è vanità e grande male.</ab>
+      <ab n="21" xml:lang="en">For there is a man whose toil is in wisdom  and knowledge and skill, and to a man who has not toiled in it he will have
+         to leave his portion: this too is vanity and great evil.</ab>
+      <ab n="22" xml:lang="ita">Perché cosa ne viene all'uomo con tutta la sua fatica e con la preoccupazione del suo cuore, che lui fatica sotto il
+         sole?</ab>
+      <ab n="22" xml:lang="en">For what comes to man with all his toil and with the worry of his heart, which he toils under the sun?</ab>
+      <ab n="23" xml:lang="ita">Perché tutti i suoi giorni sono dispiaceri ed esasperazione la sua occupazione; anche di notte il suo cuore non riposa:
+         anche questo è vanità.</ab>
+      <ab n="23" xml:lang="en">For all his days are sorrow and torment his occupation; even at night <pb/> his heart does not rest: this too is
+         vanity.</ab>
+      <ab n="24" xml:lang="ita">Non c'è bene nell'uomo <seg type="Var">se non mangiare</seg> e bere e concedersi di vedere il bene nella sua fatica;
+         anche questo io ho visto che è dalla mano di Dio.</ab>
+      <ab n="24" xml:lang="en">There is no good in man <seg corresp="#app-2-24-b">but to eat</seg> and drink and allow himself to see the good in his toil;
+         this too I have seen that it is from the hand of God.</ab>
+      <ab n="25" xml:lang="ita">Chi infatti mangerà e chi soffrirà <seg type="Var">se non lui</seg>?</ab>
+      <ab n="25" xml:lang="en">For who will eat and who will suffer <seg corresp="#app-2-25-b">if not him</seg>?</ab>
+      <ab n="26" xml:lang="ita">Perché all'uomo che è buono al suo cospetto ha dato sapienza e conoscenza e gioia e al peccatore ha dato il compito di
+         raccogliere e ammassare, per (poi) lasciare a quello buono davanti a Dio: <seg type="Var">perché anche</seg> questo è vanità e un inseguire il vento.</ab>
+      <ab n="26" xml:lang="en">For to the man who is good in his sight he has given wisdom and knowledge and joy, and to the sinner he has given the
+         task of gathering and amassing, to leave (then) to the one who is good before God: <seg corresp="#app-2-26-b">for also</seg> this is vanity and chasing after wind.</ab>
+   </div>
+   <div n="3">
+      <ab n="1" xml:lang="ita">Per tutto c'è un momento, e un tempo per ogni azione sotto il cielo.</ab>
+      <ab n="1" xml:lang="en">For everything there is a moment, and a time for every deed under the sky.</ab>
+      <ab n="2" xml:lang="ita">Un tempo per partorire e un tempo per morire; un tempo per piantare e un tempo per sdradicare il piantato.</ab>
+      <ab n="2" xml:lang="en">A time to give birth and a time to die; a time to plant and a time to uproot the planted.</ab>
+      <ab n="3" xml:lang="ita">Un tempo per uccidere e un tempo per curare; un tempo per demolire e un tempo per costruire.</ab>
+      <ab n="3" xml:lang="en">A time to kill and a time to heal; a time to demolish and a time to build.</ab>
+      <ab n="4" xml:lang="ita">Un tempo per piangere e un tempo per ridere; un tempo per portare il lutto e un tempo per ballare.</ab>
+      <ab n="4" xml:lang="en">A time to weep and a time to laugh; a time to mourn and a time to dance.</ab>
+      <ab n="5" xml:lang="ita">Un tempo per scagliare le pietre e un temo per raccogliere le pietre; un tempo per abbracciare e un tempo per astenersi
+         dall'abbracciare.</ab>
+      <ab n="5" xml:lang="en">A time to throw stones and a time to gather stones; a time to embrace and a time to refrain from embracing.</ab>
+      <ab n="6" xml:lang="ita">Un tempo per cercare e un tempo per perdere; un tempo per custorire e un tempo per gettare.</ab>
+      <ab n="6" xml:lang="en">A time to seek and a time to lose; a time to cherish and a time to discard.</ab>
+      <ab n="7" xml:lang="ita">Un tempo per lacerare e un tempo per cucire; un tempo per tacere e un tempo per parlare.</ab>
+      <ab n="7" xml:lang="en">A time to tear and a time to sew; a time to be silent and a time to speak.</ab>
+      <ab n="8" xml:lang="ita">Un tempo per amare e un tempo per odiare; un tempo per la guerra e un tempo per la pace.</ab>
+      <ab n="8" xml:lang="en">A time to love and a time to hate; a time for war and a time for peace.</ab>
+      <ab n="9" xml:lang="ita">Quale è l'utile del lavoratore in ciò per cui fatica?</ab>
+      <ab n="9" xml:lang="en">What is the gain of the worker in what he toils for?</ab>
+      <ab n="10" xml:lang="ita">Ho visto l'occupazione che Dio ha dato agli uomini perchè se ne occupino.</ab>
+      <ab n="10" xml:lang="en">I have seen the occupation that God has given to men to be occupied with.</ab>
+      <ab n="11" xml:lang="ita">Tutto ha fatto bello nel suo tempo, anche <seg type="crux">la fatica</seg> ha posto nei loro cuori, perché l'uomo non
+         scopra l'opera che Dio ha fatto dall'inizio alla fine.</ab>
+      <ab n="11" xml:lang="en">Everything he has made fine in its time, even <seg corresp="#app-3-11-c">the toil</seg> he has placed in their hearts,  lest man
+         discover the work that God has done from start to finish.</ab>
+      <ab n="12" xml:lang="ita">Ho capito che non c'è bene in loro, se non gioire e fare bene nella propria vita.</ab>
+      <ab n="12" xml:lang="en">I realised that there is no good <seg corresp="#app-3-12-b" type="expun">in them</seg>, except to rejoice and to do good in one's life.</ab>
+      <ab n="13" xml:lang="ita">E ancora, ogni uomo che mangi e beva e veda il bene in tutta la sua fatica, è un dono di Dio.</ab>
+      <ab n="13" xml:lang="en">And also, every man who eats and drinks and sees the good in all his toil is also a gift from God.</ab>
+      <ab n="14" xml:lang="ita">Ho capito che tutto ciò che farà Dio, sarà in eterno; a questo non c'è da aggiungere, e da questo non c'è da
+         sottrarre; e Dio ha fatto in modo che (gli uomini) temano di fronte a lui.</ab>
+      <ab n="14" xml:lang="en">I realised that everything God will do, it will be forever; to this there is nothing to add, and from this there is nothing to subtract; and God has acted so that (men) be afraid before him</ab>
+      <ab n="15" xml:lang="ita">Ciò che è già stato, è già; e ciò che sarà, è già stato; e Dio cercherà ciò che deve essere perseguito.</ab>
+      <ab n="15" xml:lang="en">What has already been, is already; and what will be, has already been; and God will seek that which is to be pursued.</ab>
+      <ab n="16" xml:lang="ita">E inoltre ho visto sotto il sole: il luogo del giudizio, lì è la malvagità; e il luogo della giustizia, lì è la
+         malvagità.</ab>
+      <ab n="16" xml:lang="en">And further I have seen under <pb/> the sun: the place of judgement, there lies wickedness; and the place of justice, there lies wickedness.</ab>
+      <ab n="17" xml:lang="ita">Ho detto io nel mio cuore: <quote>Il giusto e l'empio, giudicherà Dio, perché c'è un tempo per ogni azione e riguardo
+            a ogni opera <seg type="crux">lì</seg>.</quote></ab>
+      <ab n="17" xml:lang="en">I said in my heart: <quote>The righteous and the wicked, God will judge, for there is a time for every deed and
+            concerning every work <seg corresp="#app-3-17-d" type="crux">there</seg>.</quote></ab>
+      <ab n="18" xml:lang="ita">Ho detto io nel mio cuore a proposito degli uomini <seg type="crux">per mostrare loro</seg> Dio e ho visto che loro
+         stessi sono bestie.</ab>
+      <ab n="18" xml:lang="en">I said in my heart about men <seg corresp="#app-3-18-a" type="crux">to show them</seg> God and I saw that they themselves are beasts.</ab>
+      <ab n="19" xml:lang="ita">Perché <seg type="Var">il fato dei</seg> figli degli uomini <seg type="Var">e il fato della</seg> bestia, <seg
+            type="Var">un fato</seg> unico è a loro; come la morte di questo, così la morte di quello e un unico spirito è a tutti; e un vantaggio
+         dell'uomo sulla bestia non c'è, perché tutto è vanità.</ab>
+      <ab n="19" xml:lang="en">For <seg corresp="#app-3-19-b">the fate of</seg> the sons of men <seg corresp="#app-3-19-c">and the fate of</seg> the beast, a single <seg
+         corresp="#app-3-19-d">fate</seg> is theirs; 
+         just as the death of the one, so the death of the other, and a single spirit is to all; and a superiority of man over beast, there is not, for all is vanity.</ab>
+      <ab n="20" xml:lang="ita">Tutto va verso un unico luogo; tutto è sorto dalla polvere e tutto torna alla polvere.</ab>
+      <ab n="20" xml:lang="en">Everything goes towards a single place; everything arose from dust and everything returns to dust.</ab>
+      <ab n="21" xml:lang="ita">Chi sa, lo spirito dell'uomo, <seg type="Var">se sale</seg> in alto e lo spirito della bestia, <seg type="Var">se
+            scende</seg> verso il basso, alla terra.</ab>
+      <ab n="21" xml:lang="en"><seg corresp="#app-3-21-a">And who</seg> knows the spirit of man, <seg corresp="#app-3-21-b">whether it ascends</seg> upwards, and the spirit of the beast, <seg
+         corresp="#app-3-21-c">whether it descends</seg> downwards, to the earth.</ab>
+      <ab n="22" xml:lang="ita">E ho visto che non c'è cosa migliore se non che l'uomo gioisca delle sue opere, perché è la sua parte, infatti, chi lo
+         porterà a vedere ciò che sarà dopo di lui?</ab>
+      <ab n="22" xml:lang="en">And I saw that there is no better thing than for man to rejoice in his works, because it is his portion, indeed: who
+         will bring him to see what will be after him?</ab>
+   </div>
+   <div n="4">
+      <ab n="1" xml:lang="ita">Son tornato allora a considerare tutte le vessazioni che si compiono sotto il sole, ed ecco: le lacrime degli oppressi,
+         e non è a loro un consolatore; <seg type="crux">e dalla mano dei loro oppressori, potere,</seg> e non è a loro un consolatore.</ab>
+      <ab n="1" xml:lang="en">I then turned to consider  all the injustices that are done under the sun, and behold: the tears of the oppressed, and
+         there is not for them a comforter; <seg type="crux"><seg corresp="#app-4-1-c">and from the hand</seg> of their oppressors, power,</seg> and there is not for them a comforter.</ab>
+      <ab n="2" xml:lang="ita">E io lodo i morti che son già morti più dei vivi i quali vivono ancora.</ab>
+      <ab n="2" xml:lang="en">And I praise the dead who have already died more than the living who <pb/> are living still.</ab>
+      <ab n="3" xml:lang="ita">E meglio di entrambi (è) chi ancora non è esistito, chi non ha visto l'opera malvagia che si compie dotto il sole.</ab>
+      <ab n="3" xml:lang="en">And better than both (is) he who has not yet existed, who has not seen the evil work that is done under the
+         sun.</ab>
+      <ab n="4" xml:lang="ita">E io ho visto tutta la fatica e tuttο lo zelo del lavoro – è invidia dell'uomo verso il suo prossimo; anche questo è
+         vanità e un inseguire il vento.</ab>
+      <ab n="4" xml:lang="en">And I have seen all the toil and all the zeal of work – it is man's envy of his neighbour; this too is vanity and a chasing after wind.</ab>
+      <ab n="5" xml:lang="ita">Lo stolto incrocia le mani e si rode la carne.</ab>
+      <ab n="5" xml:lang="en">The fool crosses his hands and gnaws his flesh.</ab>
+      <ab n="6" xml:lang="ita">Meglio una manciata (con) calma che due manciate (con) fatica e inseguendo il vento.</ab>
+      <ab n="6" xml:lang="en">Better one handful (with) ease than two handfuls (with) effort and chasing after wind.</ab>
+      <ab n="7" xml:lang="ita">Son tornato allora a considerare la vanità sotto il sole.</ab>
+      <ab n="7" xml:lang="en">I then turned to consider the vanity under the sun.</ab>
+      <ab n="8" xml:lang="ita">C'è un singolo e non c'è un secondo; nemmeno un figlio o un fratello è a lui; e non c'è fine alla sua fatica, inoltre
+            <seg type="Var">il suo occhio</seg> non si sazia di ricchezza: <quote>Per chi fatico allora e privo la mia anima del bene?</quote> Anche
+         questo è vanità e un malaffare.</ab>
+      <ab n="8" xml:lang="en">There is one and there is no second; not even a son or a brother is his; and there is no end to his toil,
+         moreover <seg corresp="#app-4-8-b">his eye</seg> is not satisfied with wealth: <quote>For whom then do I toil and deprive my soul of good?</quote> This
+         too is vanity and mischief.</ab>
+      <ab n="9" xml:lang="ita">Meglio del singolo, i due, ai quali è un buon compenso nella loro fatica.</ab>
+      <ab n="9" xml:lang="en">Better than one alone, the two, to whom there is a good reward in their toil.</ab>
+      <ab n="10" xml:lang="ita">Perché, se cadranno, uno solleverà il suo compagno; <seg type="Var">e guai</seg> all'uno che cada, e non c'è un
+         secondo a sollevarlo.</ab>
+      <ab n="10" xml:lang="en">For if they fall, one will lift his companion; <seg corresp="#app-4-10-b">and woe to</seg> the one  alone who falls, and there is not another
+         to lift him.</ab>
+      <ab n="11" xml:lang="ita">Quando giacciono due, allora sarà caldo per loro, mentre per il singolo, come ci si scalda?</ab>
+      <ab n="11" xml:lang="en">When two lie (together), then it will be warm for them, while for the single, how does it get warm?</ab>
+      <ab n="12" xml:lang="ita">Se <seg type="Var">attaccano</seg> il singolo, i due staranno di fronte a lui; e una fune a tre capi non si spezza
+         facilmente.</ab>
+      <ab n="12" xml:lang="en">If <seg corresp="#app-4-12-a">they attack</seg> the one alone, the two will stand in front of him; and a three-stranded rope is not easily broken.</ab>
+      <ab n="13" xml:lang="ita">Meglio un fanciullo povero ma sapiente di un re stolto, che non sappia più sentir ragione.</ab>
+      <ab n="13" xml:lang="en">Better a child poor but wise than a foolish king who can no longer hear reason</ab>
+      <ab n="14" xml:lang="ita">Perché <seg type="dub">dal ventre</seg> è uscito per regnare; perché perfino nel suo stesso regno è nato povero.</ab>
+      <ab n="14" xml:lang="en">For out of <seg type="dub">the womb</seg> he came forth to reign; for even in his own kingdom he was born poor.</ab>
+      <ab n="15" xml:lang="ita">Ho visto tutti i vivi che si affaccendano sotto il sole insieme al prossimo fanciullo che ne prenderà il posto.</ab>
+      <ab n="15" xml:lang="en">I have seen all the living busying themselves under the sun with the next child who is going to take the place of each.</ab>
+      <ab n="16" xml:lang="ita">Non c'è fine a tutta <seg type="Var">la fatica</seg> per tutti quelli vissuti prima di loro; eppure i posteri non ne
+         godranno, perché anche questo è vanità e un preoccuparsi del vento.</ab>
+      <ab n="16" xml:lang="en">There is no end <seg corresp="#app-4-16-a">to all the toil</seg> for all those who lived before them; yet descendants will not enjoy
+         it, for that too is vanity and a worrying about wind.<pb/></ab>
+      <ab n="17" xml:lang="ita">Sta' attento al tuo passo quando ti rechi presso la casa di Dio, e avvicinati ad ascoltare; <seg type="Var">dono</seg>
+         degli stolti è il sacrificio, perché non sanno di compiere il male.</ab>
+      <ab n="17" xml:lang="en">Watch <seg corresp="#app-4-17-a">your step</seg> when you go to the house of God and draw near to listen; <seg corresp="#app-4-17-d">gift</seg> of fools is
+         sacrifice, because they do not know that they are doing wrong.</ab>
+   </div>
+   <div n="5">
+      <ab n="1" xml:lang="ita">Non affrettarti con la tua bocca e il tabbondauo cuore non si precipiti a proferir parola davanti a Dio, perché Dio è
+         nel cielo e tu sulla terra; pertanto, siano le tue parole poche.</ab>
+      <ab n="1" xml:lang="en">Do not hasten with your mouth, nor let your heart rush to utter a word before God, for God is in heaven and you on
+         earth; therefore, let your words be few.</ab>
+      <ab n="2" xml:lang="ita">Perché il sogno viene nell'eccesso di attività, e la voce dello stolto nell'eccesso di parole.</ab>
+      <ab n="2" xml:lang="en">For the dream comes in the excess of activity, and the voice of the fool in the excess of words.</ab>
+      <ab n="3" xml:lang="ita">Quando stringi un voto a Dio, non tardare ad adempierlo, perché non c'è benevolenza con gli stolti; ciò che stringi,
+         adempilo.</ab>
+      <ab n="3" xml:lang="en">When you make a vow to God, do not delay in fulfilling it, for there is no benevolence with fools; <seg corresp="#app-5-3-a">you, what you</seg> vow,
+         fulfil.</ab>
+      <ab n="4" xml:lang="ita">Meglio che tu non voti, piuttosto che tu voti e non adempi.</ab>
+      <ab n="4" xml:lang="en">Better that you do not vow than that you vow and do not fulfil.</ab>
+      <ab n="5" xml:lang="ita">Non lasciare che la tua bocca faccia peccare la tua carne, e non dire di fronte a Dio che è stato uno sbaglio, perché
+         si adirerà Dio alla tua voce e annienterà l'opera delle tue mani.</ab>
+      <ab n="5" xml:lang="en">Do not let your mouth cause your flesh to sin, and do not say before God that it was an error, for will God anger at
+         your voice and will destroy <seg corresp="#app-5-5-b">the works of</seg> your hands.</ab>
+      <ab n="6" xml:lang="ita">Perché nell'eccesso di sogni e illusioni, (vengono) anche molte parole; ma temi dio.</ab>
+      <ab n="6" xml:lang="en">For in the excess of dreams and illusions, (come) also many words; but fear god.</ab>
+      <ab n="7" xml:lang="ita">Se oppressione di un povero e sottrazione di diritto e giustizia vedi nella provincia, non ti stupire della cosa,
+         perché un superiore sta su un altro superiore, e su entrambi (ci sono) altri superiori.</ab>
+      <ab n="7" xml:lang="en">If oppression of the poor and subtraction of right and justice you see in the province, do not be astonished at the
+         matter, because one superior stands over another superior, and on both (there are) other superiors.</ab>
+      <ab n="8" xml:lang="ita">E l'utile della terra è <seg type="Var">sopra tutto</seg>, (persino) un re è servito per il campo.</ab>
+      <ab n="8" xml:lang="en">And the gain of the land is <seg corresp="#app-5-8-a">above all</seg>: (even) a king is served for the field.</ab>
+      <ab n="9" xml:lang="ita">Chi ama il denaro non si sazia di denaro, e chi ama <seg type="crux">l'abbondanza piena del prodotto</seg>; anche
+         questo è vanità.</ab>
+      <ab n="9" xml:lang="en">He who loves money will not be sated by money, and he who loves <seg type="crux">abundance <seg corresp="#app-5-9-b">filled with</seg> the
+            product</seg>; this too is vanity.</ab>
+      <ab n="10" xml:lang="ita">Nel moltiplicarsi dei beni si moltiplicano coloro che li divorano, e quale facoltà è al proprietario, se non <seg
+            type="Var">il vedere</seg> (con) i suoi occhi?</ab>
+      <ab n="10" xml:lang="en">In the multiplying of <seg corresp="#app-5-10-b">goods</seg>, those who devour them multiply, and what faculty is there for the owner, if not <seg
+         corresp="#app-5-10-e">seeing</seg> (with) his eyes?</ab>
+      <ab n="11" xml:lang="ita">Dolce è il sonno dello <seg type="Var">schiavo</seg>, sia che mangi poco, sia che mangi molto, mentre l'abbonzanza, al
+         ricco, non gli lascia prendere sonno.</ab>
+      <ab n="11" xml:lang="en">Sweet is the sleep of <seg corresp="#app-5-11-a">the slave</seg>, whether he eats little or much, while abundance, to the
+         rich man, does not let him sleep.</ab>
+      <ab n="12" xml:lang="ita">C'è un male ammorbante (che) ho visto sotto il sole: una ricchezza custodita per il suo padrone, a suo danno.</ab>
+      <ab n="12" xml:lang="en">There is a sickening evil (that) I have seen under the sun: a wealth kept for its owner, <pb/> to his detriment.</ab>
+      <ab n="13" xml:lang="ita">Ed è andata perduta quella ricchezza in un cattivo affare, e (gli) è nato un figlio e non c'è nulla in mano sua.</ab>
+      <ab n="13" xml:lang="en">And that wealth was lost in a bad deal, and (to him) a son was born and there is nothing in his hand.</ab>
+      <ab n="14" xml:lang="ita">Così come è uscito dal ventre di sua madre, nudo tornerà ad andare, così come è venuto, e nulla ricaverà con la sua
+         fatica che possa trasportare nella sua mano.</ab>
+      <ab n="14" xml:lang="en"><seg corresp="#app-5-14-a">For</seg> he came out of his mother's womb, naked he will go again, just as he came, and nothing will he gain by his
+         labour that he can carry in his hand.</ab>
+      <ab n="15" xml:lang="ita">Anche questo è un male ammorbante, <seg type="Var">che così come</seg> è venuto, così se ne andrà; e quale  utile è a
+         lui, che fatica per il vento?</ab>
+      <ab n="15" xml:lang="en">This <seg corresp="#app-5-15-a">too</seg> is a sickening evil, <seg corresp="#app-5-15-b">that just as</seg> he came, so shall he go; and what gain is it to him,
+         who toils for the wind?</ab>
+      <ab n="16" xml:lang="ita">Anche tutti i suoi giorni <seg type="crux">nella tenebra</seg> mangia, e (con) molta <seg type="Var"
+            >esasperazione</seg>
+         <seg type="Var">e malattia</seg> e cruccio.</ab>
+      <ab n="16" xml:lang="en">Also all his days <seg corresp="#app-5-16-a" type="crux">in darkness</seg> he eats, and (with) much <seg corresp="#app-5-16-b">torment</seg>
+         <seg corresp="#app-5-16-c">and sickness</seg> and rage.</ab>
+      <ab n="17" xml:lang="ita">Ecco quel che io ho visto di buono, che è bello mangiare e bere e vedere il bene in ogni fatica che (l'uomo) fatica
+         sotto il sole (per) numero di giorni della sua vita che Dio ha dato a lui, perché questa è la sua parte.</ab>
+      <ab n="17" xml:lang="en">Behold what I have seen of good, that it is good to eat and drink and see the good in every toil that (man) toils
+         under the sun (for the) number of days of his life that God has given him, for this is his portion.</ab>
+      <ab n="18" xml:lang="ita">Anche, ogni uomo a cui Dio ha dato ricchezza e possedimenti e gli ha concesso di mangiarne e di prendere la sua parte
+         e di gioire nella sua fatica: è un dono di Dio.</ab>
+      <ab n="18" xml:lang="en">Also, every man to whom God has given wealth and possessions and allowed him to eat from it and take his portion and
+         rejoice in his labour: it is a gift from God.</ab>
+      <ab n="19" xml:lang="ita">Perché non ricorderà molto dei giorni della sua vita, perché Dio tiene occupati con la gioia del proprio cuore.</ab>
+      <ab n="19" xml:lang="en">For he will not remember much of the days of his life, for God <seg corresp="#app-5-19-a">keeps one occupied</seg> with the joy of one's heart.</ab>
+   </div>
+   <div n="6">
+      <ab n="1" xml:lang="ita">C'è un male che ho visto sotto il sole ed è grande sull'uomo:</ab>
+      <ab n="1" xml:lang="en">There is an evil I have seen under the sun and it is great upon man:</ab>
+      <ab n="2" xml:lang="ita">Un uomo a cui Dio abbia dato ricchezza e possedimenti e prestigio, e alla cui anima non manchi nulla di tutto ciò che
+         desideri, ma a cui Dio non conceda di mangiar da essa, perché un uomo straniero ne mangerà: questo è vanità ed è un brutto malanno.</ab>
+      <ab n="2" xml:lang="en">A man to whom God has given wealth and possessions and prestige, and whose soul lacks nothing of all that he desires,
+         but to whom God does not grant to eat from it, so that a stranger will eat of it: this is vanity and is an evil sickness.</ab>
+      <ab n="3" xml:lang="ita">Se un uomo generasse cento volte e cento anni vivesse e molti fossero i giorni dei suoi anni, ma la sua anima non si
+         saziasse del bene e non ci fosse una tomba per lui, io dico: meglio di lui un aborto.</ab>
+      <ab n="3" xml:lang="en">If a man were to reproduce a hundred times and live a hundred years and were many the days of his years, but his soul was not
+         satisfied with good and there were no tomb for him, I say: better than him an abortion.</ab>
+      <ab n="4" xml:lang="ita">Perché nella vanità è venuto e nella tenebra <seg corresp="#app-6-4-a">va</seg> e nella tenebra il suo nome sarà avvolto.</ab>
+      <ab n="4" xml:lang="en">For in vanity he has come and in darkness <seg type="Var">he goes</seg>, and in darkness his name shall be
+         shrouded.</ab>
+      <ab n="5" xml:lang="ita">Perché nemmeno il sole ha visto e conosciuto; riposo più a questo che a quello.</ab>
+      <ab n="5" xml:lang="en">For not even the sun has seen and known; resting more to this than to that.</ab>
+      <ab n="6" xml:lang="ita">E se vivesse mille anni due volte, ma il bene non vedesse, forse che non vanno tutti verso un unico luogo?</ab>
+      <ab n="6" xml:lang="en">And if he lived a thousand years twice,  but did not see the good, would they not all go to only one place?</ab>
+      <ab n="7" xml:lang="ita">Ogni fatica dell''uomo è per la sua bocca, eppure l'anima non si riempie.</ab>
+      <ab n="7" xml:lang="en">Every toil of man is for his mouth, yet the soul is not filled.</ab>
+      <ab n="8" xml:lang="ita">Perché cosa è in più al sapiente rispetto allo stolto? <seg type="Var">A che fine</seg> dovrebbe il pover'uomo sapere
+         come si va tra i viventi?</ab>
+      <ab n="8" xml:lang="en">For what is it more <pb/> to the wise man than the fool? <seg corresp="#app-6-8-b">To what end</seg> should the poor man know how to go
+         among the living?</ab>
+      <ab n="9" xml:lang="ita">Meglio la vista degli occhi che il vagare dell'anima: anche questo è vanità e un inseguire il vento.</ab>
+      <ab n="9" xml:lang="en">Better the sight of the eyes than the wandering of the soul: this too is vanity and a chasing of wind.</ab>
+      <ab n="10" xml:lang="ita">Ciò che è stato, il suo nome è già stato nominato, ed è stato riconosciuto ciò che è uomo, e non potrà disputare con
+         colui che è più forte di lui.</ab>
+      <ab n="10" xml:lang="en">That which has been, its name has already been named, and that which is man has been recognised, and he will not be
+         able to dispute with him who is stronger than he.</ab>
+      <ab n="11" xml:lang="ita">Infatti, ci sono molte parole che moltiplicano la vanità: cosa è in più all'uomo?</ab>
+      <ab n="11" xml:lang="en">Indeed, there are many words that multiply vanity: what is more to man?</ab>
+      <ab n="12" xml:lang="ita">Perché chi sa cosa è buono per l'uomo nella vita? Pochi (sono) i giorni della vita della sua vanità, e li trascorrerà
+         come ombra. Perché chi dirà all'uomo cosa sarà dopo di lui sotto il sole?</ab>
+      <ab n="12" xml:lang="en">For who knows what is good for man in life? Few (are) the days of the life of his vanity, and he will spend them as a
+         shadow. For who shall tell man what shall be after him under the sun?</ab>
+   </div>
+   <div n="7">
+      <ab n="1" xml:lang="ita">Meglio un (buon) nome di un olio buono, e il giorno della morte al giorno della nascita di uno.</ab>
+      <ab n="1" xml:lang="en">Better a (good) name than a good oil, and the day of death to the day of one's birth.</ab>
+      <ab n="2" xml:lang="ita">Meglio andare alla casa del lamento che andare alla casa del banchetto, in quanto quella è la fine dell'uomo e il vivo
+         vi porrà la sua mente.</ab>
+      <ab n="2" xml:lang="en">Better to go to the house of lament than to go to the house of the feast, for that is the end of man, and the
+         living will set his mind.</ab>
+      <ab n="3" xml:lang="ita">Meglio l'esasperazione che il riso, perché nell'afflizione del volto il cuore si allieterà.</ab>
+      <ab n="3" xml:lang="en">Better torment than laughter, for in the affliction of the face the heart will be glad.</ab>
+      <ab n="4" xml:lang="ita">Il cuore dei saggi è nella casa del lutto, mentre il cuore degli stolti è nella casa del banchetto.</ab>
+      <ab n="4" xml:lang="en">The heart of wise men is in the house of mourning, while the heart of  fools is in the house of feasting.</ab>
+      <ab n="5" xml:lang="ita">Meglio ascoltare <seg type="Var">i rimproveri</seg> del sapiente, <seg type="Var">piuttosto che ascoltare</seg> il
+         canto degli stolti.</ab>
+      <ab n="5" xml:lang="en">Better to listen to <seg type="Var">the rebukes</seg> of the wise <seg type="Var">than to listen</seg> to the song
+         of fools.</ab>
+      <ab n="6" xml:lang="ita">Perché, come il suono degli sterpi sotto la pentola, così il riso dello stolto; <seg type="Var">anche</seg>; questo è
+         vanità.</ab>
+      <ab n="6" xml:lang="en">For as the sound  of kindling under the pot, so is the laughter of the fool; this <seg corresp="#app-7-6-e">also</seg> is vanity.</ab>
+      <ab n="7" xml:lang="ita">Perché l'oppressione renderà folle il sapiente <seg type="Var">e pervertirà</seg>
+         <seg type="crux">un cuore calmo</seg>.</ab>
+      <ab n="7" xml:lang="en">For oppression will make the wise foolish, <seg corresp="#app-7-7-a">and will pervert</seg>
+         <seg type="crux">a calm heart</seg>.</ab>
+      <ab n="8" xml:lang="ita">Meglio la conclusione di una cosa del suo inizio; meglio il paziente di spirito che il superbo di spirito.</ab>
+      <ab n="8" xml:lang="en">Better the conclusion of a thing than its beginning; better the patient of spirit than the proud of spirit.</ab>
+      <ab n="9" xml:lang="ita">Non precipitarti ad esasperarti nel tuo spirito, perché l'esasperazione nel grembo degli stolti riposa.</ab>
+      <ab n="9" xml:lang="en">Be not hasty to be tormented in your spirit, for torment in the lap of fools rests.</ab>
+      <ab n="10" xml:lang="ita">Non dire: <quote>cos'è stato, che i giorni precedenti erano migliori di questi?</quote> Perché non <seg type="Var">con
+            sapienza</seg> hai domandato su ciò.</ab>
+      <ab n="10" xml:lang="en">Do not say: <quote>What was it, that the previous days were better than these?</quote> For not <seg corresp="#app-7-10-a">with
+            wisdom</seg> <pb/> have you asked about that.</ab>
+      <ab n="11" xml:lang="ita">Buona è la sapienza con un'eredità; e un utile per coloro che vedono il sole.</ab>
+      <ab n="11" xml:lang="en">Good is wisdom with a legacy; and a gain for those who see the sun.</ab>
+      <ab n="12" xml:lang="ita">Perché <seg type="Var">nella sua ombra</seg>, la sapienza è <seg type="Var">come l'ombra del</seg> denaro, e vantaggio
+         della conoscenza è (che) la sapienza fa vivere chi la possiede.</ab>
+      <ab n="12" xml:lang="en">For <seg corresp="#app-7-12-a">in its shadow</seg>, wisdom is <seg corresp="#app-7-12-b">like the shadow of</seg> money, and the advantage
+         of knowledge is (that) wisdom makes those who possess it live.</ab>
+      <ab n="13" xml:lang="ita">Considera l'opera di Dio, perché chi potrà correggere ciò che Lui ha fatto storto?</ab>
+      <ab n="13" xml:lang="en">Consider the work of God, for who can correct what He has made crooked?</ab>
+      <ab n="14" xml:lang="ita">Nel giorno della prosperità, vivi nel bene, e nel giorno dell'angustia, considera: anche questo, insieme a quello, ha
+         fatto Dio, perché l'uomo non possa scoprire nulla dopo di lui.</ab>
+      <ab n="14" xml:lang="en">In the day of prosperity, live in goodness, and in the day of distress, consider: this, too, together with that, God
+         has done, so that man can discover nothing after him.</ab>
+      <ab n="15" xml:lang="ita">Tutto ho visto nei giorni della mia vanità: c'è un giusto che perisce nella sua giustizia e c'è un malvagio che
+         prolunga (i suoi giorni) nella sua malvagità.</ab>
+      <ab n="15" xml:lang="en">All I have seen in the days of my vanity: there is a righteous man who perishes in his righteousness and there is a
+         wicked man who prolongs (his days) in his wickedness.</ab>
+      <ab n="16" xml:lang="ita">Non essere troppo giusto e non agire troppo da saggio: perché dovresti sconvolgerti?</ab>
+      <ab n="16" xml:lang="en">Do not be too fair and do not act too wise: why should you upset yourself?</ab>
+      <ab n="17" xml:lang="ita">Non essere eccessivamente malvagio e non essere stolto: perché dovresti morire quando non è il tuo tempo?</ab>
+      <ab n="17" xml:lang="en">Do not be excessively wicked and do not be foolish: why should you die when it is not your time?</ab>
+      <ab n="18" xml:lang="ita">È bene che tu prenda (un po') di questo, ma anche da quello non ritirare le tue mani, perché chi teme Dio evita
+         (l'eccesso di) entrambe le cose.</ab>
+      <ab n="18" xml:lang="en">It is good that you take (some) of this, but also from that do not withdraw your hands, for he who fears God avoids
+         (the excess of) both.</ab>
+      <ab n="19" xml:lang="ita">La sapienza <seg type="Var">aiuta</seg> il sapiente più di dieci governatori che sono stati in città.</ab>
+      <ab n="19" xml:lang="en">Wisdom <seg corresp="#app-7-19-a">helps</seg> the wise man more than ten governors who have been in the city.</ab>
+      <ab n="20" xml:lang="ita">Perché non c'è uomo (così) giusto sulla terra che faccia il bene e non pecchi.</ab>
+      <ab n="20" xml:lang="en">For there is no man (so) righteous on earth who does good and does not sin.</ab>
+      <ab n="21" xml:lang="ita">Anche a tutte le parole che si diranno, non prestare il tuo cuore, che tu non abbia ad ascoltare il tuo servo parlar
+         male di te.</ab>
+      <ab n="21" xml:lang="en">Even to all the words that will be spoken, lend not your heart,  lest you hear your servant speaking ill of you.</ab>
+      <ab n="22" xml:lang="ita">Perché anche molte volte sa il tuo cuore che anche tu hai parlato male di altri.</ab>
+      <ab n="22" xml:lang="en">For also many times your heart knows that you too have spoken ill of others.</ab>
+      <ab n="23" xml:lang="ita">Tutto questo ho sperimentato con sapienza; ho detto: <quote>Che io possa diventare sapiente,</quote> ma essa è lontana
+         da me.</ab>
+      <ab n="23" xml:lang="en">All this I have experienced with wisdom; I have said: <quote>That I may become wise,</quote> but it is far from
+         me.</ab>
+      <ab n="24" xml:lang="ita">Lontano è ciò che è stato, e ciò che è profondo profondo, chi potrà scoprirlo?</ab>
+      <ab n="24" xml:lang="en">Far away is what has been, and what is deep down, who can uncover it?</ab>
+      <ab n="25" xml:lang="ita">Mi son volto, io e il mio cuore, a conoscere ed esplorare e cercare sapienza e un ragionamento, per conoscere
+         malvagità, stoltezza, <seg type="Var">e follia</seg>, insensatezza.</ab>
+      <ab n="25" xml:lang="en">I have turned, I and my heart, to know and explore and seek wisdom and a reasoning, to know wickedness, foolishness
+         <seg type="Var">and folly</seg>, <seg corresp="#app-7-25-c">and senselessness</seg>.</ab>
+      <ab n="26" xml:lang="ita">E io scopro più amara della morte la donna, la quale è lacci, e reti il suo cuore, catene le sue mani; buono al
+         cospetto di Dio chi rifugge da essa, mentre il peccatore vi resta incappato.</ab>
+      <ab n="26" xml:lang="en">And I find more bitter than death <pb/> the woman, who is snares, and nets her heart, chains her hands; good in the sight of
+         God he who shuns her, while the sinner will be trapped in her.</ab>
+      <ab n="27" xml:lang="ita">Guarda, questo ho trovato, ha detto Qohelet: <seg type="dub">ho passato in rassegna uno ad uno i
+         ragionamenti</seg>:</ab>
+      <ab n="27" xml:lang="en">Look, this I have found, said Qohelet: <seg type="dub">I went through the reasoning  one by one</seg></ab>
+      <ab n="28" xml:lang="ita"><seg type="dub">che la mia anima si ostinava a cercare, ma non ne ho trovato</seg>; un uomo su mille, ho trovato, ma
+         una donna tra tutte, non ho trovato.</ab>
+      <ab n="28" xml:lang="en"><seg type="dub">that my soul persisted in searching, but did not find</seg>; one man out of a thousand, I found, but one woman out of
+         all, I did not find.</ab>
+      <ab n="29" xml:lang="ita">Soltanto questo, guarda, ho trovato: che Dio ha fatto l'uomo semplice, ma loro hanno cercato infiniti
+         ragionamenti.</ab>
+      <ab n="29" xml:lang="en">Only this, look, I have found: that God made man simple, but they sought countless reasonings.</ab>
+   </div>
+   <div n="8">
+      <ab n="1" xml:lang="ita">Chi è <seg type="Var">così sapiente</seg> da sapere l'interpretazione delle cose? La sapienza di un uomo gli illumina
+         il volto, mentre <seg type="Var">un impudente</seg> <seg type="Var">cambia</seg> il suo volto.</ab>
+      <ab n="1" xml:lang="en">Who is <seg corresp="#app-8-1-a">so wise</seg> as to know the interpretation of things? A man's wisdom illuminates his face, while
+         <seg corresp="#app-8-1-b">an impudent man</seg> <seg corresp="#app-8-1-c">changes</seg> his face.</ab>
+      <ab n="2" xml:lang="ita"><seg corresp="#app-8-2-a">Io</seg> l'ordine del re osserva, e in ragione del del giuramento di dio</ab>
+      <ab n="2" xml:lang="en"><seg corresp="#app-8-2-a">I</seg> the king's order observe, and by reason of the oath of god</ab>
+      <ab n="3" xml:lang="ita"><seg type="Var">non ti affrettare</seg> a lasciare la sua presenza, non insistere in un discorso pericoloso, perché
+         tutto ciò che gli aggrada, lo fa.</ab>
+      <ab n="3" xml:lang="en"><seg corresp="#app-8-3-a">do not hasten</seg> to leave his presence, do not  insist in a dangerous discourse, for whatever pleases him, he does.</ab>
+      <ab n="4" xml:lang="ita">Perché la parola del re è legge; chi potrà dirgli: <quote>Cosa fai?</quote></ab>
+      <ab n="4" xml:lang="en">For the word of the king is law; who can tell him: <quote>What are you doing?</quote></ab>
+      <ab n="5" xml:lang="ita">Chi osserva il comando non farà esperienza di una brutta parola, e un cuore sapiente <seg type="Var">sa</seg> che c'è
+            <seg type="Var">un tempo del giudizio</seg>.</ab>
+      <ab n="5" xml:lang="en">He who observes the command will not experience a bad word, and a wise heart <seg corresp="#app-8-5-c">knows</seg> (that there is)
+         <seg corresp="#app-8-5-b">a time of judgement</seg>.</ab>
+      <ab n="6" xml:lang="ita">Perché per ogni azione c'è un tempo e un giudizio, perché il male dell'uomo è molto su di lui.</ab>
+      <ab n="6" xml:lang="en">For for every action there is a time and a judgement, for the evil of man is much upon him.</ab>
+      <ab n="7" xml:lang="ita">Perché non sa cosa sarà, perché, quando sarà, chi glielo dirà?</ab>
+      <ab n="7" xml:lang="en">For he does not know what it will be, for when it will be, who will tell him?</ab>
+      <ab n="8" xml:lang="ita">Non c'è un uomo che controlli il vento, per imprigionare il vento, e non c'è governo nel giorno della morte; e non c'è
+         congedo nella guerra e la malvagità non potrà salvare chi la commette.</ab>
+      <ab n="8" xml:lang="en">There is no man to control the wind, to imprison the wind, and there is no government in the day of death; and there is
+         no leave in war, and wickedness cannot save the one who commits it.</ab>
+      <ab n="9" xml:lang="ita">E tutto questo ho visto, e ho dato il mio cuore ad ogni opera che si è compiuta sotto il sole, (al) tempo in cui comanda
+         l'uomo su un uomo, a suo danno.</ab>
+      <ab n="9" xml:lang="en">And all this I have seen, and I have given my heart to every action that has been done under the sun, (at) the time when
+         commands man over man, to his detriment.</ab>
+      <ab n="10" xml:lang="ita">E così ho visto persone malvagie <seg type="Var">officiare</seg>, <seg type="Var">provenire</seg>
+         <seg type="Var">da un luogo</seg> sacro <seg type="Var">e andare</seg> a vantarsi in città di aver fatto così.</ab>
+      <ab n="10" xml:lang="en">And so I have seen wicked people <pb/> <seg corresp="#app-8-10-a">officiating</seg>, <seg corresp="#app-8-10-b">coming</seg>
+         <seg corresp="#app-8-10-c">from a holy place</seg>
+         <seg corresp="#app-8-10-d">and going</seg> <seg corresp="#app-8-10-c">bragging</seg> to the city that they have done so.</ab>
+      <ab n="11" xml:lang="ita">Dal momento che non è fatto presto giudizio delle <seg type="Var">opere malvagie</seg>, per questo il cuore degli uomini è pieno di esse, a
+         fare il male.</ab>
+      <ab n="11" xml:lang="en">From the moment that judgment of <seg corresp="#app-8-11-a">evil works</seg> is not made quickly, therefore the heart of men is full of them, to do evil.</ab>
+      <ab n="12" xml:lang="ita">Perché il peccatore fa il male <seg type="crux">cento volte</seg> e prolunga a lui (i suoi giorni), eppure io so che
+         sarà bene ai timorati di Dio, che temono di fronte a lui.</ab>
+      <ab n="12" xml:lang="en">For the sinner does  evil <seg corresp="#app-8-12-d" type="crux">a hundred times</seg> and prolongs to him (his days), 
+         yet I know that it will be good to the God-fearing, that they tremble before him.</ab>
+      <ab n="13" xml:lang="ita">Mentre bene non sarà al malvagio e, come un'ombra, non prolungerà i (suoi) giorni, perché non teme di fronte a
+         Dio.</ab>
+      <ab n="13" xml:lang="en">While good will not be to the wicked and, like a shadow, he will not prolong (his) days, because it does not fear
+         before God.</ab>
+      <ab n="14" xml:lang="ita">C'è una vanità che è compiuta sulla terra, ovvero: ci sono giusti a cui tocca come l'opera dei malvagi, e ci sono
+         malvagi a cui tocca come l'opera dei giusti; ho detto che anche questo è vanità.</ab>
+      <ab n="14" xml:lang="en">There is a vanity that is fulfilled on earth, namely: there are righteous to whom it touches as the work of the wicked,
+         and there are wicked to whom it touches as the work of the righteous; I have said that this too is vanity.</ab>
+      <ab n="15" xml:lang="ita">E ho lodato io la gioia, perché non c'è altro bene per l'uomo sotto il sole se non mangiare e bere e gioire ed esso
+         l'accompagnerà nella sua fatica per i giorni della sua vita che gli ha concesso Dio sotto il sole.</ab>
+      <ab n="15" xml:lang="en">And I have praised joy, for there is no other good for man under the sun but to eat and drink and rejoice, and it will
+         accompany him in his toil for the days of his life that God has granted him under the sun.</ab>
+      <ab n="16" xml:lang="ita">Quando ho dato il mio cuore a conoscere la sapienza e a vedere l'affare che si compie sulla terra, (ovvero) che tanto
+         di giorno quanto di notte il sonno nei suoi occhi non lo lascia dormire,</ab>
+      <ab n="16" xml:lang="en">When I gave my heart to know wisdom and to see the business that is done on earth, (that is) that both by day as by
+         night the sleep in his eyes does not let him sleep,</ab>
+      <ab n="17" xml:lang="ita">allora ho visto ogni opera di Dio, che non potrà l'uomo scoprire l'opera che si è compiuta sotto il sole, per la quale
+         faticherà l'uomo nel cercare, e non troverà; e anche se il sapiente dirà di sapere, non potrà trovare.</ab>
+      <ab n="17" xml:lang="en">then have I seen every work of God, that man shall not discover the work that is done under the sun, for which man
+         shall labour in seeking and will not find; and though the wise man may say that he knows, he cannot find.</ab>
+   </div>
+   <div n="9">
+      <ab n="1" xml:lang="ita">Perché tutto questo ho dato al mio cuore, <seg type="Var">e il mio cuore ha visto</seg> tutto questo, che i giusti e i
+         sapienti e le loro opere sono nella mano di Dio; anche l'amore, anche l'odio, non sa l'uomo che tutto di fronte a loro è</ab>
+      <ab n="1" xml:lang="en">For all this I have given to my heart, <seg corresp="#app-9-1-b">and my heart has seen</seg> all this, that the righteous and the
+         wise and their works are in the hand <pb/> of God; even love, even hatred, does not man know that everything before them is</ab>
+      <ab n="2" xml:lang="ita"><seg type="Var">vanità</seg>. Perché a tutti è un unico destino: al giusto e al malvagio, al buono <seg type="Var">e al
+            cattivo</seg>, al puro e all'impuro, e al sacrificante e a colui che non sacrifica; come il buono, così il cattivo, colui che giura, come
+         colui che teme il giuramento.</ab>
+      <ab n="2" xml:lang="en"><seg corresp="#app-9-2-a" type="Var">vanity</seg>. 
+         <seg corresp="#app-9-2-b">For</seg> to all is one destiny: to the righteous and to the wicked, <seg corresp="#app-9-2-c">to the good and to the bad</seg>, to the pure and to the impure,
+         and to the sacrificer and to him who does not sacrifice; as the good, so the bad, he who swears, as he who fears the oath.</ab>
+      <ab n="3" xml:lang="ita">Ciò è male in tutto ciò che si fa sotto il sole, che un unico destino è a tutti, e anche il cuore dei figli dell'uomo è
+         pieno di male e follia è nei loro cuori, nella loro vita, <seg type="crux">e dopo di lui, ai morti</seg>.</ab>
+      <ab n="3" xml:lang="en">This is evil in all that  is done under the sun, that one destiny is to all, and also the heart of the sons of man is
+         full of evil and folly is in their hearts, in their lives, <seg type="crux"><seg corresp="#app-9-3-b">and after that</seg> to the dead</seg>.</ab>
+      <ab n="4" xml:lang="ita">Per colui che sarà unito a tutti i viventi, c'è una rassicurazione, perché quanto a un cane vivo, esso è meglio di un
+         leone morto.</ab>
+      <ab n="4" xml:lang="en">For him who <seg corresp="#app-9-4-a">will be united</seg> to all the living, there is reassurance, because as with a living dog, it is better than a
+         dead lion.</ab>
+      <ab n="5" xml:lang="ita">Perché i vivi sanno che dovranno morire, mentre i morti non sanno nulla, e non è più a loro un compenso, perché sarà
+         dimenticato il loro ricordo.</ab>
+      <ab n="5" xml:lang="en">For the living know that they will have to die, while the dead know nothing, and there is no longer a reward for them,
+         for the memory of them will be forgotten.</ab>
+      <ab n="6" xml:lang="ita">Anche il loro amore, anche il loro odio, anche la loro invidia, è già perso e non è più a loro una parte per
+         sempre in tutto quello che si fa sotto il sole.</ab>
+      <ab n="6" xml:lang="en">Even their love, even their hatred, even their envy, is already lost and a part is no longer theirs forever in all that
+         is done under the sun.</ab>
+      <ab n="7" xml:lang="ita">Va', mangia con gioia il tuo pane e bevi con cuore lieto il tuo vino, perché già ha gradito Dio la tua opera.</ab>
+      <ab n="7" xml:lang="en">Go, eat your bread with joy and drink your wine with a glad heart, for already your work has pleased God.</ab>
+      <ab n="8" xml:lang="ita">In ogni momento siano i tuoi vestiti bianchi e olio sul tuo capo non manchi.</ab>
+      <ab n="8" xml:lang="en">At all times be your clothes white and be oil on your head not lacking.</ab>
+      <ab n="9" xml:lang="ita">Vedi la vita con la donna che hai amato tutti i giorni della vita della tua vanità, che ha dato a te sotto il sole
+         tutti i giorni della tua vanità, perché questa è la tua parte nella vita e nella tua fatica che tu fatichi sotto il sole.</ab>
+      <ab n="9" xml:lang="en">See life with the woman you loved all the days of the life of your vanity, who gave to you under the sun all the days of
+         your vanity, for this is your part in life and in your toil that you toil under the sun.</ab>
+      <ab n="10" xml:lang="ita">Tutto ciò che troverà la tua mano da fare, <seg type="Var">secondo la tua forza</seg>, fallo, perché non c'è opera né
+         ragionamento né conoscenza né sapienza nello Sheol verso cui tu ti stai avviando.</ab>
+      <ab n="10" xml:lang="en">Everything your hand finds to do, <seg corresp="#app-9-10-a" type="Var">according to your strength</seg>, do it, for there is neither work nor
+         reasoning nor knowledge nor wisdom in the Sheol towards which you are going.</ab>
+      <ab n="11" xml:lang="ita">Mi son volto a considerare sotto il sole che la corsa non è per gli agili, né la guerra per i forti e neppure il pane
+         è per i sapienti e neppure la ricchezza per gli intelligenti e neppure il favore per gli istruiti, perché tempo e caso incidono su loro
+         tutti.</ab>
+      <ab n="11" xml:lang="en">I turned to consider under the sun that running is not for the agile, nor war for the strong, nor bread for the wise,
+         nor wealth for the intelligent, nor favour for the learned, for time and chance affect them all.</ab>
+      <ab n="12" xml:lang="ita">Perché inoltre, l'uomo non conosce la sua ora, come i pesci che vengono presi in una mala rete e come gli uccelli
+         presi nella trappola; come questi son catturati i figli dell'uomo nell'ora fatale, quando piombi su di loro all'improvviso.</ab>
+      <ab n="12" xml:lang="en">For moreover, man knows not his hour, as fish which are caught in an evil net, and as birds caught in the snare; like
+         them are entrapped the sons of man in the fatal hour, when it falls upon them suddenly.</ab>
+      <ab n="13" xml:lang="ita">Anche questo ho visto: la sapienza sotto il sole e grande essa è per me.</ab>
+      <ab n="13" xml:lang="en">This too <pb/> I have seen: wisdom under the sun and great it is for me.</ab>
+      <ab n="14" xml:lang="ita">Una piccola città e pochi uomini in essa; e viene verso di essa un grande re e la circonda e costruisce contro di essa
+         grandi macchine d'assedio.</ab>
+      <ab n="14" xml:lang="en">A small city and few men in it; and a great king comes towards it and surrounds it and builds great <seg corresp="#app-9-14-b">siege-machines</seg>
+         against it.</ab>
+      <ab n="15" xml:lang="ita">E si trovava in essa un uomo povero, sapiente e salvò lui la città con la sua sapienza, eppure nessuno ricorda
+         quell'uomo povero.</ab>
+      <ab n="15" xml:lang="en">And there was to be found in it a poor, wise man, and he saved the city with his wisdom, yet no one remembers that poor man.</ab>
+      <ab n="16" xml:lang="ita">Allora io ho detto: migliore è la sapienza della forza e la sapienza del povero è disprezzata e le sue parole non sono
+         ascoltate.</ab>
+      <ab n="16" xml:lang="en">Then I said: wisdom is better than strength, and the poor man's wisdom is despised and his words are not heard.</ab>
+      <ab n="17" xml:lang="ita">Le parole dei sapienti si ascoltano nella calma, lontano dalle grida di chi governa gli uomini stolti.</ab>
+      <ab n="17" xml:lang="en">The words of the wise are heard in quiet, away from the shouting of the one ruling over foolish men.</ab>
+      <ab n="18" xml:lang="ita">Migliore è la sapienza degli strumenti di guerra e un solo peccatore manda in rovina molto bene.</ab>
+      <ab n="18" xml:lang="en">Wisdom is better than instruments of war and a single sinner sends much good to ruin.</ab>
+   </div>
+   <div n="10">
+      <ab n="1" xml:lang="ita"><seg type="Var">Una (sola) mosca</seg> di morte manda a male <seg type="Var">un (intera) oncia</seg> di olio di
+         profumiere; più cara della sapienza, del prestigio è un po' di stoltezza.</ab>
+      <ab n="1" xml:lang="en"><seg corresp="#app-10-1-a">A (single) fly</seg> of death spoils <seg corresp="#app-10-1-c">a (whole) ounce</seg> of perfumer's oil; more
+         expensive than wisdom, than prestige is a little foolishness.</ab>
+      <ab n="2" xml:lang="ita">Il cuore del sapiente è alla sua sinistra, mentre il cuore dello stolto alla sua destra.</ab>
+      <ab n="2" xml:lang="en">The heart of the wise man is on his left, while the heart of the fool on his right.</ab>
+      <ab n="3" xml:lang="ita">E inoltre, per la via, quando lo stolto procede, il suo cuore è assente, ed egli dice di tutti: <quote>Quello è uno
+            stolto!</quote></ab>
+      <ab n="3" xml:lang="en">And moreover, along the path, when the fool proceeds, his heart is absent, and he says: <quote><seg corresp="#app-10-3-d">Everyone</seg> is a
+            fool!</quote></ab>
+      <ab n="4" xml:lang="ita">Se l'ira di un potente ti assale, non abbandonare il tuo posto, perché la calma placa grandi peccati.</ab>
+      <ab n="4" xml:lang="en">If the wrath of a mighty one assails you, do not forsake your seat, for calm appeases great sins.</ab>
+      <ab n="5" xml:lang="ita">C'è un male, ho visto sotto il sole; <seg type="Var">come lo sciocco che si allontana</seg> dal cospetto di chi comanda.</ab>
+      <ab n="5" xml:lang="en">There is an evil, I have seen under the sun; <seg corresp="#app-10-5-b">like the fool</seg> <seg corresp="#app-10-5-c">who turns away</seg>
+         from the presence of those in command.</ab>
+      <ab n="6" xml:lang="ita"><seg type="Var">Lo stolto</seg> è posto ai piani alti, mentre i ricchi giacciono in basso.</ab>
+      <ab n="6" xml:lang="en"><seg corresp="#app-10-6-a">The fool</seg> is placed in high places, while the rich lie below.</ab>
+      <ab n="7" xml:lang="ita">Ho visto servi a cavallo e principi, come servi, procedere sulla terra.</ab>
+      <ab n="7" xml:lang="en">I have seen slaves on horseback and princes, like slaves, proceeding on earth.</ab>
+      <ab n="8" xml:lang="ita">Chi scava una fossa, ci può cadere e chi demolisce un muro, può morderlo un serpente.</ab>
+      <ab n="8" xml:lang="en">He who digs a pit, may fall into it, and he who demolishes a wall, a snake may bite him.</ab>
+      <ab n="9" xml:lang="ita">Chi trasporta pietre, si può ferire con esse, chi taglia la legna, si può compromettere con esse.</ab>
+      <ab n="9" xml:lang="en">He who carries stones, may be injured by them, he who chops wood, may be endangered by them.</ab>
+      <ab n="10" xml:lang="ita">Se si ottunde il ferro e <seg type="Var">gli</seg> scompone il volto, allora gli sforzi devono aumentare, ma il
+         vantaggio della sapienza è (proprio) predisporre all'uso.</ab>
+      <ab n="10" xml:lang="en">If the iron blunts and distorts <seg corresp="#app-10-10-a">to him</seg>  the face, then efforts must increase, but the advantage
+         of wisdom is (precisely) <seg corresp="#app-10-10-b">to prepare (for use)</seg>.</ab>
+      <ab n="11" xml:lang="ita">Se il serpende morde senza incantesimo, allora non c'è ritorno per l'incantatore.</ab>
+      <ab n="11" xml:lang="en">If the snake bites without a spell, then there is no gain for the caster.</ab>
+      <ab n="12" xml:lang="ita">Le parole della bocca del sapiente sono una grazia, mentre le labbra dello stolto lo consumano.</ab>
+      <ab n="12" xml:lang="en">The words of the mouth of the wise man are a grace, while the lips of the fool consume him.</ab>
+      <ab n="13" xml:lang="ita">L'inizio dei discorsi della sua bocca sono insensatezza e la fine della sua bocca una terribile follia.</ab>
+      <ab n="13" xml:lang="en">The beginning of the speeches of his mouth are senseless and the end of his mouth a terrible folly.</ab>
+      <ab n="14" xml:lang="ita">Lo stolto moltiplica le parole; non conosce l'uomo ciò che sarà e ciò che sarà dopo di lui, chi glielo dirà?</ab>
+      <ab n="14" xml:lang="en">The fool multiplies words; does not <pb/> man know what <seg corresp="#app-10-14-b">has been</seg> and what will be after him, who will tell him?</ab>
+      <ab n="15" xml:lang="ita">Una fatica da stolti <seg type="Var">affatica lui</seg> che non sa andare in città.</ab>
+      <ab n="15" xml:lang="en">The effort <seg type="crux"><seg corresp="#app-10-15-a">of fools</seg> <seg corresp="#app-10-15-b">fatigues him</seg></seg>
+         who does not know how to go to the city.</ab>
+      <ab n="16" xml:lang="ita">Guai a te, o terra il cui re è un fanciullo e i tuoi ministri banchettano al mattino.</ab>
+      <ab n="16" xml:lang="en">Woe to you, O land whose king is a child, and your ministers feast in the morning.</ab>
+      <ab n="17" xml:lang="ita">Beata te, o terra il cui re è figlio di notabili e i cui ministri mangiano a tempo debito, in prodezza e non in
+         ubriachezza.</ab>
+      <ab n="17" xml:lang="en">Happy are you, O land whose king is the son of notables and your ministers eat on time, in prowess and not in
+         drunkenness.</ab>
+      <ab n="18" xml:lang="ita">Per la pigrizia il tetto può crollare, e per l'inerzia delle mani la casa può perdere.</ab>
+      <ab n="18" xml:lang="en">Through laziness the roof can collapse, and through inertia of the hands the house can leak.</ab>
+      <ab n="19" xml:lang="ita">Per allietarsi mangiano pane e il vino rallegra la vita, ma il denaro preoccupa tutti.</ab>
+      <ab n="19" xml:lang="en">To cheer themselves they eat bread and wine cheers life, but money worries everyone.</ab>
+      <ab n="20" xml:lang="ita">Non parlar male del re nemmeno nella tua mente, e non maledire il ricco nella tua stanza da letto, perché un uccello
+         del cielo porterà la voce, e un essere alato riferità il discorso.</ab>
+      <ab n="20" xml:lang="en">Speak not evil of the king even in your mind, nor curse the rich man in your bedchamber, for a bird of heaven shall
+         bring forth the voice, and a winged being will report the speech.</ab>
+   </div>
+   <div n="11">
+      <ab n="1" xml:lang="ita">Manda il tuο pane sulla superficie delle acque, perché in capo a molti giorni lo troverai.</ab>
+      <ab n="1" xml:lang="en">Send your bread upon the surface of the waters, for at the end of many days you shalt find it.</ab>
+      <ab n="2" xml:lang="ita">Danne una porzione da sette o da otto, perché non sai cosa sarà di male sulla terra.</ab>
+      <ab n="2" xml:lang="en">Give it a portion of seven or of eight, for you know not what of evil will be on earth.</ab>
+      <ab n="3" xml:lang="ita">Se si riempiono le nuvole, pioggia riversano sulla terra, e se cade un albero a Sud, o se al Nord, nel luogo in cui
+         cade, sarà là.</ab>
+      <ab n="3" xml:lang="en">If the clouds fill, rain pours down on the earth, and if a tree falls in the south, or if in the north, where it falls,
+         it will be there.</ab>
+      <ab n="4" xml:lang="ita">Chi vigila sul vento, non seminerà, e chi guarda le nuvole, non raccoglierà.</ab>
+      <ab n="4" xml:lang="en">Who watches over the wind, will not sow, and he who looks to the clouds, will not reap.</ab>
+      <ab n="5" xml:lang="ita">Così come non sai quale è la via dello spirito <seg type="Var">nelle ossa</seg> nel ventre di una incinta, così non
+         conoscerai l'opera di Dio che farà tutto.</ab>
+      <ab n="5" xml:lang="en">Just as you do not know the way of the spirit <seg corresp="#app-11-5-c">in the bones</seg>  in the womb of a pregnant woman, so you
+         will not know the work of God who will do everything.</ab>
+      <ab n="6" xml:lang="ita">Al mattino semina il tuo seme e alla sera non dar posa alla tua mano, perché non sai se riuscirà questo o quello ο se
+         entrambi siano ugualmente buoni.</ab>
+      <ab n="6" xml:lang="en">In the morning sow your seed and in the evening do not rest your hand, 
+         for you do not know whether it will succeed at this or that or whether both are equally good.</ab>
+      <ab n="7" xml:lang="ita">E dolce è la luce ed è un bene per gli occhi vedere il sole</ab>
+      <ab n="7" xml:lang="en">And sweet is the light and it is good for the eyes to see the sun.</ab>
+      <ab n="8" xml:lang="ita">Perché se l'uomo vivesse molti anni, ne gioirebbe di tutti e ricorderebbe i giorni della tenebra, perché sarebbero
+         molti; tutto ciò che viene è vanità.</ab>
+      <ab n="8" xml:lang="en">For if man were to live many years, he would rejoice in them all and remember the days of darkness, for they would be
+         many; all that comes is vanity.</ab>
+      <ab n="9" xml:lang="ita">Gioisci fanciullo nella tua infanzia e ti allieti il tuo cuore nei giorni della tua fanciullezza; e va' nelle vie del
+         tuo cuore <seg type="Var">e alla vista</seg> dei tuoi occhi e sappi che su tutto ciò ti porterà Dio a giudizio.</ab>
+      <ab n="9" xml:lang="en">Rejoice, O child, in your childhood and may your heart gladden you in the days of your childhood; and go into the ways
+         of your heart <seg corresp="#app-11-9-b">and in the sight</seg> of your eyes and know that God will bring you to judgment on all this.</ab>
+      <ab n="10" xml:lang="ita">E rimuovi l'esasperazione dal tuo cuore e fai passare il male dalla tua carne, perché l'infanzia e l'alba (della vita)
+         sono vanità.</ab>
+      <ab n="10" xml:lang="en">And remove torment from your heart and make evil pass from your flesh, for childhood and the dawn (of life) are
+         vanity. <pb/></ab>
+   </div>
+   <div n="12">
+      <ab n="1" xml:lang="ita">E ricorda il tuo creatore nei giorni della tua fanciullezza, finchè non verranno i giorni del male e giungeranno anni
+         di cui dirai: <quote>Non vi trovo (alcuna) utilità.</quote></ab>
+      <ab n="1" xml:lang="en">And remember your creator in the days of your childhood, until the days of evil come and reach the years of which you will say:
+         <quote>I do not find (any) use in them</quote>.</ab>
+      <ab n="2" xml:lang="ita">Fino a quando non si oscuri il sole e la luce e la luna e le stelle, e tornino le nuvole dopo la pioggia.</ab>
+      <ab n="2" xml:lang="en">Until the sun and the light and the moon and the stars darken, and the clouds return after the rain.</ab>
+      <ab n="3" xml:lang="ita">Nei giorni in cui si agiteranno i guardiani della casa, si curveranno gli uomini di valore e cesseranno le macinatrici,
+         perché fatte poche, e si appanneranno gli occhi nei lucernari.</ab>
+      <ab n="3" xml:lang="en">In the days when the guardians of the house shall be stirred, the men of valour shall be cured, and the grinders shall
+         cease, for they are made few, and the eyes fog up in the skylights.</ab>
+      <ab n="4" xml:lang="ita">E si chiuderanno i battenti sulla via, nell'indebolirsi del suono della mola, <seg type="crux">e si leverà a
+            canto</seg> l'uccello e si affievoliranno le figlie del canto.</ab>
+      <ab n="4" xml:lang="en">And shall the doors be closed along the way, in the weakening of the sound of the grindstone, <seg corresp="#app-12-4-c" type="crux">and will
+            rise up in song</seg> the bird, and the daughters of song will fade away.</ab>
+      <ab n="5" xml:lang="ita">E anche dall'alto temeranno, e terrore per la via; <seg type="Var">e fiorirà il mandorlo</seg> e
+         si trascinerà la locusta <seg type="Var">e si scinderà</seg> il cappero, perché l'uomo procede verso la dimora della sua eternità, e si
+         aggireranno i lamentatori in strada.</ab>
+      <ab n="5" xml:lang="en">And also from on high they shall fear, and terror in the street; and the almond tree <seg
+            corresp="#app-12-5-d">shall blossom</seg>, and the locust shall drag itself, <seg corresp="#app-12-5-f">and shall split</seg> the caper, for man proceeds to the
+         abode of his eternity, and will wander the complainers in the street.</ab>
+      <ab n="6" xml:lang="ita">Finchè <seg type="Var">non si spezzi</seg> la corda d'argento <seg type="Var">e si spacchi</seg> l'ampolla d'oro e si
+         frantumi la brocca alla sorgente <seg type="Var">e precipiti</seg> la carrucola nel pozzo.</ab>
+      <ab n="6" xml:lang="en">Until the silver rope <seg corresp="#app-12-6-a">is broken</seg> and the golden cruet <seg corresp="#app-12-6-b">is smashed</seg> and the jug
+         at the spring is shattered <seg corresp="#app-12-6-c">and plunges</seg> the pulley into the well.</ab>
+      <ab n="7" xml:lang="ita">E torni la polvere sulla terra, come era, e lo spirito torni a Dio, che lo ha dato.</ab>
+      <ab n="7" xml:lang="en">And returns the dust  to the earth, as it was, and the spirit return to God, who gave it.</ab>
+      <ab n="8" xml:lang="ita">Vanità di vanità, ha detto Qohelet, vanità di vanità, tutto è vanità.</ab>
+      <ab n="8" xml:lang="en">Vanity of vanities, said Qohelet, vanity of vanities, all is vanity.</ab>
+      <ab n="9" xml:lang="ita">E oltre (al fatto) che Qohelet fu un saggio, insegnò inoltre la conoscenza al popolo; e ascoltò e ricercò e compose
+         molti detti.</ab>
+      <ab n="9" xml:lang="en">And besides (the fact) that Qohelet was a sage, he also taught knowledge to the people; and he listened and researched
+         and composed many sayings.</ab>
+      <ab n="10" xml:lang="ita">E si applicò Qohelet per trovare parole di valore; e ciò che è scritto è esattezza, parole di verità.</ab>
+      <ab n="10" xml:lang="en">And Qohelet applied himself to find words of value; and what is written is exactitude, words of truth.</ab>
+      <ab n="11" xml:lang="ita">Le parole dei sapienti sono come pungoli, come chiodi conficcati; le raccolte dei detti sono dati da un unico
+         pastore.</ab>
+      <ab n="11" xml:lang="en">The words of the wise are like goads, like nails driven in; the collections of sayings are given by a single shepherd.</ab>
+      <ab n="12" xml:lang="ita">E oltre a quelle cose, figlio mio, sta attento: al fare molti libri, non c'è fine, e troppo studio è logoramento della
+         carne.</ab>
+      <ab n="12" xml:lang="en">And besides those things, my son, be careful: to do many books, there is no end, and too much study is wear and tear on
+         the flesh.</ab>
+      <ab n="13" xml:lang="ita">Fine del discorso, tutto è stato udito; temi Dio e osserva i suoi precetti, perché questo è tutto l'uomo.</ab>
+      <ab n="13" xml:lang="en">End of speech, all has been heard; fear God and observe his precepts, for this is all man.</ab>
+      <ab n="14" xml:lang="ita">Perché ogni opera Dio porterà in giudizio, (anche) riguardo a ciò che è nascosto, che sia buono o malvagio.</ab>
+      <ab n="14" xml:lang="en">For every work God will bring forth into judgement, (also) concerning that which is hidden, whether it be good or evil.</ab>
+   </div>
+</div>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="abstract"> 
+    <p>
+        The objective of the present dissertation is a born-digital critical edition of the Old Testament book of Qohelet. The edition is based on an
+        extensive collation of variant readings from indirect sources – the Septuagint, the Peshitta, the works of <abbr>St.</abbr> Jerome (the Vulgate and the
+        Commentary), and the Targum – as well as from direct sources such as the Qumran fragments and Hebrew medieval manuscripts. 
+    </p>
+    <p>
+        The ultimate goal of
+        the edition is (a) to reproduce the earliest textual form, the Archetype, that can be reconstructed on the basis of the available evidence; and
+        (b) to propose a rehabilitation of the Original writing of the author by resorting, when necessary, to conjectural emendation. We date the
+        Archetype to the II century <abbr>BCE</abbr>, corresponding to the date of Hebrew fragments from Qumran, while we place the Original between the 5th and
+        3rd centuries <abbr>BCE</abbr>.
+    </p>
+    <p>
+        Unlike previous critical editions of Qohelet, ours follows the so-called eclectic model, which involves the reconstitution of
+        a critical text and the preparation of a critical apparatus of secondary variants. Our edition includes, moreover, new data, taken both from
+        primary literature, such as the recently published Göttingen Septuagint, and from up-to-date studies and critical commentaries on the text of
+        Qohelet.
+    </p>
+    <p>
+        The work is made up of four main parts: an introduction, which sets forth the rationale of the edition and the methodology adopted; the
+        collation, where the variants are listed in their original language and extensively discussed; the critical text and the apparatus, with a
+        selection of authentic Hebrew variants from the collation; and finally, a translation of the critical text. The edition uses the mark-up language
+        of the Text Encoding Initiative (TEI), and will be available both in printed form, via <abbr>LATEX</abbr>, and in digital form, via the TEI-Publisher editor.
+    </p>
+</div>

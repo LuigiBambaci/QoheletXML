@@ -1,0 +1,1948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listWit xml:id="main" xmlns="http://www.tei-c.org/ns/1.0">
+	<!-- FAMIGLIA DI TESTIMONI EBRAICI -->
+	<listWit xml:lang="hb">
+		<head>Hebrew Witnesses</head>
+		<witness xml:id="L">
+			<abbr>L</abbr>
+			<expan>
+				<hi rend="italics">Codex Leningradensis</hi>
+			</expan>
+		</witness>
+		<listWit xml:lang="hb">
+			<head>Qumran</head>
+			<witness xml:id="Qb">
+				<abbr>4QQoh<hi rend="sup">b</hi>
+				</abbr>
+				<expan>Qoh 1: 10-14</expan>
+			</witness>
+			<witness xml:id="Qa">
+				<abbr>4QQoh<hi rend="sup">a</hi>
+				</abbr>
+				<expan>Qoh 5: 13-17; 6:1(?), 3-8, 12; 7:1-10, 19-20</expan>
+			</witness>
+		</listWit>
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ListWitnesses.xml"/>
+	</listWit>
+	<!-- FAMIGLIA DEI TESTIMONI ARAMAICI -->
+	<listWit xml:lang="hb">
+		<head>Targumim</head>
+		<witness xml:id="T" corresp="#TZ #TS #T110">
+			<abbr>T</abbr>
+		</witness>
+		<witness xml:id="TZ">
+			<abbr>T<hi rend="sup">Z</hi>
+			</abbr>
+			<expan>
+				<hi rend="italics">Editio princeps</hi> of Alfonso de Zamora, based on the Ms.
+                Villa-Amil n.° 5, Bibl. Un. Complutense, Madrid</expan>
+		</witness>
+		<witness xml:id="TS">
+			<abbr>T<hi rend="sup">S</hi>
+			</abbr>
+			<expan>Critical text of Sperber's edition, based on the Ms. Or. 2375, second half of
+                XV cent. Brit. Mus., London</expan>
+		</witness>
+		<witness xml:id="T110">
+			<abbr>T<hi rend="sup">110</hi>
+			</abbr>
+			<expan>Ms. 110, XV cent., Bibl. Nat., Paris</expan>
+		</witness>
+		<witness xml:id="TUrb">
+			<abbr>Urb1</abbr>
+			<expan>Cod. Vat. Urb. 1, 1294, Vatican Libr.</expan>
+		</witness>
+	</listWit>
+	<!-- FAMIGLIA DEI TESTIMONI GRECI -->
+	<listWit xml:lang="gr">
+		<head>Septuagint</head>
+		<witness xml:id="Galloi">οι αλλοι, αλλος nella Siro-hexapla</witness>
+		<witness xml:id="GHi">
+			<abbr>G<hi rend="sup">Hi</hi>
+			</abbr>
+			<expan>Greek text quoted by Jerome</expan>
+		</witness>
+		<listWit xml:lang="gr" n="Gentry">
+			<head type="main">Gentry</head>
+			<witness xml:id="GHiAq">
+				<abbr>Hi<hi rend="sup">GAq</hi>
+				</abbr>
+				<expan>Greek text of Aquila quoted by Jerome</expan>
+			</witness>
+			<witness xml:id="GHiSm">
+				<abbr>Hi<hi rend="sup">GSm</hi>
+				</abbr>
+				<expan>Greek text of Symmachus quoted by Jerome</expan>
+			</witness>
+			<witness xml:id="GHiTh">
+				<abbr>Hi<hi rend="sup">GTh</hi>
+				</abbr>
+				<expan>Greek text of Theodotion quoted by Jerome</expan>
+			</witness>
+			<listWit rend="Blue" xml:lang="gr">
+				<head>Majuskelhandschriften</head>
+				<!-- p. 3 -->
+				<witness xml:id="G" corresp="#GA #GB #GS #Ra #Ge">
+					<abbr>G</abbr>
+				</witness>
+				<witness xml:id="Ge3010">
+					<abbr>3010</abbr>
+				</witness>
+				<witness xml:id="GA">
+					<abbr>A</abbr>
+					<expan>
+						<hi rend="italics">Codex Alexandrinus</hi>, middle of the V cent., London, Brit. Mus., Royal 1 D. V.</expan>
+				</witness>
+				<witness xml:id="GB">
+					<abbr>B</abbr>
+					<expan>
+						<hi rend="italics">Codex Vaticanus</hi>, IV cent., Rom. Bibl. Vat., Vat. gr. 1209</expan>
+				</witness>
+				<witness xml:id="GBo">
+					<abbr>B*</abbr>
+					<expan>
+						<hi rend="italics">Codex Vaticanus</hi>, IV cent., Rom. Bibl. Vat., Vat. gr. 1209</expan>
+				</witness>
+				<witness xml:id="GBc">
+					<abbr>B<hi rend="sup">c</hi>
+					</abbr>
+					<expan>
+						<hi rend="italics">Codex Vaticanus</hi>, IV cent., Rom. Bibl. Vat., Vat. gr. 1209</expan>
+				</witness>
+				<witness xml:id="GC">
+					<abbr>C</abbr>
+					<expan>Codex Ephraemi rescr., V cent., Paris</expan>
+				</witness>
+				<witness xml:id="GV">
+					<abbr>V</abbr>
+				</witness>
+				<witness xml:id="GVc">
+					<abbr>V<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GA-C" corresp="#GA #GC">
+					<abbr>A-C</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="Red" xml:lang="gr">
+				<head>Papyrus und Fragmente</head>
+				<!-- p. 10 -->
+				<witness xml:id="Ge870">
+					<abbr>870</abbr>
+				</witness>
+				<witness xml:id="Ge992">
+					<abbr>992</abbr>
+				</witness>
+				<witness xml:id="Ge969">
+					<abbr>969</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="DarkOrange" xml:lang="gr">
+				<head>Die hexaplarische Rezension</head>
+				<!-- p. 51 -->
+				<witness xml:id="GeO" corresp="#GV #Ge253 #Ge475 #Ge637">
+					<abbr>
+						<hi rend="italics">O</hi>
+					</abbr>
+				</witness>
+				<!-- Wits singoli -->
+				<witness xml:id="Ge253">
+					<abbr>253</abbr>
+				</witness>
+				<witness xml:id="Ge475">
+					<abbr>475</abbr>
+				</witness>
+				<witness xml:id="Ge637">
+					<abbr>637</abbr>
+				</witness>
+				<witness xml:id="Ge637o" corresp="#Ge637">
+					<abbr>637*</abbr>
+				</witness>
+				<witness xml:id="GV-Ge475" corresp="#GV #Ge475">
+					<abbr>V-475</abbr>
+				</witness>
+				<witness xml:id="Ge475-637" corresp="#Ge475 #Ge637">
+					<abbr>475-637</abbr>
+				</witness>
+				<!-- Gruppi imperfetti -->
+				<witness xml:id="GeO-min-V" corresp="#GeO">
+					<abbr>
+						<hi rend="italics">O</hi>
+						<hi rend="sup">-V</hi>
+					</abbr>
+					<ident>V</ident>
+				</witness>
+				<witness xml:id="GeO-min-V-475" corresp="#GeO">
+					<abbr>
+						<hi rend="italics">O</hi>
+						<hi rend="sup">-V 475</hi>
+					</abbr>
+					<ident>V</ident>
+				</witness>
+				<witness xml:id="GeO-min-253" corresp="#GeO">
+					<abbr>
+						<hi rend="italics">O</hi>
+						<hi rend="sup">-253</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeO-min-637" corresp="#GeO">
+					<abbr>
+						<hi rend="italics">O</hi>
+						<hi rend="sup">-637</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeO-min-475-637" corresp="#GV #Ge253">
+					<abbr>
+						<hi rend="italics">O</hi>
+						<hi rend="sup">-475 637</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeO-min-475" corresp="#GV #Ge253 #Ge637">
+					<abbr>
+						<hi rend="italics">O</hi>
+						<hi rend="sup">-475</hi>
+					</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="Peru" xml:lang="gr">
+				<head>Die Zeugen des ägyptischen Textes</head>
+				<!-- p. 54 -->
+				<witness xml:id="GS">
+					<abbr>S</abbr>
+					<expan>
+						<hi rend="italics">Codex Sinaiticus</hi>, IV-V cent., London, Brit. Mus., Add. 43725</expan>
+				</witness>
+				<witness xml:id="GSo" corresp="#GS">
+					<abbr>S*</abbr>
+					<expan>
+						<hi rend="italics">Codex Sinaiticus</hi>, IV-V cent., London, Brit. Mus., Add. 43725</expan>
+				</witness>
+				<witness xml:id="GSc">
+					<abbr>S<hi rend="sup">c</hi>
+					</abbr>
+					<expan>
+						<hi rend="italics">Codex Sinaiticus</hi>, corrector</expan>
+				</witness>
+				<witness xml:id="Ge68">
+					<abbr>68</abbr>
+				</witness>
+				<witness xml:id="Ge68-12" corresp="#Ge68 #Ge534 #Ge602 #Ge613">
+					<abbr>68'’</abbr>
+				</witness>
+				<witness xml:id="Ge68-12-998" corresp="#Ge68-12 #G998">
+					<abbr>68'’-998</abbr>
+				</witness>
+				<witness xml:id="Ge68-1" corresp="#Ge68 #Ge534">
+					<abbr>68'</abbr>
+				</witness>
+				<witness xml:id="Ge68-2" corresp="#Ge68 #Ge613">
+					<abbr>68’</abbr>
+				</witness>
+				<witness xml:id="Ge68o" corresp="#Ge68">
+					<abbr>68*</abbr>
+				</witness>
+				<witness xml:id="GS-602-613" corresp="#GS #Ge602 #Ge613">
+					<abbr>S-602-613</abbr>
+				</witness>
+				<witness xml:id="Ge336">
+					<abbr>336</abbr>
+				</witness>
+				<witness xml:id="Ge336-1" corresp="#Ge336 #Ge728">
+					<abbr>336'</abbr>
+				</witness>
+				<witness xml:id="Ge728">
+					<abbr>728</abbr>
+				</witness>
+				<witness xml:id="Ge534-1" corresp="#Ge534 #Ge613">
+					<abbr>534'</abbr>
+				</witness>
+				<witness xml:id="Ge534">
+					<abbr>534</abbr>
+				</witness>
+				<witness xml:id="Ge602">
+					<abbr>602</abbr>
+				</witness>
+				<witness xml:id="Ge613">
+					<abbr>613</abbr>
+				</witness>
+				<witness xml:id="Ge613suplin">
+					<abbr>613<hi rend="sup">sup lin</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="G998">
+					<abbr>998</abbr>
+					<expan>Hamburger Papyrus Bil. 1</expan>
+				</witness>
+				<witness xml:id="Ge613-998" corresp="#Ge613 #G998">
+					<abbr>613-998</abbr>
+				</witness>
+				<witness xml:id="GBo-S-534" corresp="#GBo #GS #Ge534">
+					<abbr>B*-S-534</abbr>
+				</witness>
+				<witness xml:id="GB-68-12-998" corresp="#GB #Ge68-12 #G998">
+					<abbr>B-68'’-998</abbr>
+				</witness>
+				<witness xml:id="GB-68-12" corresp="#GB #Ge68-12">
+					<abbr>B-68'’</abbr>
+				</witness>
+				<witness xml:id="GB-68-1" corresp="#GB #Ge68-1">
+					<abbr>B-68'</abbr>
+				</witness>
+				<witness xml:id="GBc-68-1" corresp="#GBc #Ge68-1">
+					<abbr>B<hi rend="sup">c</hi>-68'</abbr>
+				</witness>
+				<witness xml:id="GB-68" corresp="#GB #Ge68">
+					<abbr>B-68</abbr>
+				</witness>
+				<witness xml:id="GB-68-1-998" corresp="#GB #Ge68-1 #G998">
+					<abbr>B-68'-998</abbr>
+				</witness>
+				<witness xml:id="GB-998" corresp="#GB #G998">
+					<abbr>B-998</abbr>
+				</witness>
+				<witness xml:id="GB-613-998" corresp="#GB #Ge613 #G998">
+					<abbr>B-613-998</abbr>
+				</witness>
+				<witness xml:id="GB-S-68" corresp="#GB #GS #Ge68">
+					<abbr>B-S-68</abbr>
+				</witness>
+				<witness xml:id="GB-S-68-1-998" corresp="#GB #GS #Ge68-1 #G998">
+					<abbr>B-S-68'-998</abbr>
+				</witness>
+				<witness xml:id="GB-S-68-998" corresp="#GB #GS #Ge68 #G998">
+					<abbr>B-S-68-998</abbr>
+				</witness>
+				<witness xml:id="GB-Sc-68-12" corresp="#GB #GSc #Ge68-12">
+					<abbr>B-S<hi rend="sup">c</hi>-68'’</abbr>
+				</witness>
+				<witness xml:id="GB-Sc-68-1" corresp="#GB #GSc #Ge68-1">
+					<abbr>B-S<hi rend="sup">c</hi>-68'</abbr>
+				</witness>
+				<witness xml:id="GB-So-68-1-998" corresp="#GB #GSo #Ge68-1 #G998">
+					<abbr>B-S*-68'-998</abbr>
+				</witness>
+				<witness xml:id="GB-So-68-12-998" corresp="#GB #GSo #Ge68-12 #G998">
+					<abbr>B-S*-68'’-998</abbr>
+				</witness>
+				<witness xml:id="GB-So-534-998" corresp="#GB #GSo #Ge534 #G998">
+					<abbr>B-S*-534-998</abbr>
+				</witness>
+				<witness xml:id="GB-So-534" corresp="#GB #GSo #Ge534">
+					<abbr>B-S*-534</abbr>
+				</witness>
+				<witness xml:id="GB-S-68-12-998" corresp="#GB #GS #Ge68-12 #G998">
+					<abbr>B-S-68'’-998</abbr>
+				</witness>
+				<witness xml:id="GB-S-68-1" corresp="#GB #GS #Ge68-1">
+					<abbr>B-S-68'</abbr>
+				</witness>
+				<witness xml:id="GB-S-68-12" corresp="#GB #GS #Ge68-12">
+					<abbr>B-S-68'’</abbr>
+				</witness>
+				<witness xml:id="GB-So-68-12" corresp="#GB #GSo #Ge68-12">
+					<abbr>B-S*-68'’</abbr>
+				</witness>
+				<witness xml:id="GB-613suplin-998" corresp="#GB #Ge613suplin #G998">
+					<abbr>B-613<hi rend="sup">sup lin</hi>-998</abbr>
+				</witness>
+				<witness xml:id="GB-534-1" corresp="#GB #Ge534-1">
+					<abbr>B-534'</abbr>
+				</witness>
+				<witness xml:id="Ge68-2-998" corresp="#Ge68-2 #G998">
+					<abbr>68’-998</abbr>
+				</witness>
+				<witness xml:id="GB-S-534-1-998" corresp="#GB #GS #Ge534-1 #G998">
+					<abbr>B-S-534'-998</abbr>
+				</witness>
+				<witness xml:id="GB-S-534-998" corresp="#GB #GS #Ge534 #G998">
+					<abbr>B-S-534-998</abbr>
+				</witness>
+				<witness xml:id="GB-S-534-1" corresp="#GB #GS #Ge534-1">
+					<abbr>B-S-534'</abbr>
+				</witness>
+				<witness xml:id="GSc-613" corresp="#GSc #Ge613">
+					<abbr>S<hi rend="sup">c</hi>-613</abbr>
+				</witness>
+				<witness xml:id="GS-613" corresp="#GS #Ge613">
+					<abbr>S-613</abbr>
+				</witness>
+				<witness xml:id="GS-613-998" corresp="#GS #Ge613 #G998">
+					<abbr>S-613-998</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="SeaGreen" xml:lang="gr">
+				<head>Die zeugen der lukianischen Rezension</head>
+				<!-- p. 59 -->
+				<witness xml:id="GeL" corresp="#Ge106 #Ge125-1 #Ge130 #Ge261 #Ge545">
+					<abbr>L</abbr>
+				</witness>
+				<witness xml:id="Ge106">
+					<abbr>106</abbr>
+				</witness>
+				<witness xml:id="Ge125">
+					<abbr>125</abbr>
+				</witness>
+				<witness xml:id="Ge125-130" corresp="#Ge125 #Ge130">
+					<abbr>125-130</abbr>
+				</witness>
+				<witness xml:id="Ge125o">
+					<abbr>125*</abbr>
+				</witness>
+				<witness xml:id="Ge130">
+					<abbr>130</abbr>
+				</witness>
+				<witness xml:id="Ge261">
+					<abbr>261</abbr>
+				</witness>
+				<witness xml:id="Ge545">
+					<abbr>545</abbr>
+				</witness>
+				<witness xml:id="Ge545c">
+					<abbr>545<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge125-1" corresp="#Ge125 #Ge261">
+					<abbr>125'</abbr>
+				</witness>
+				<witness xml:id="Ge106-261" corresp="#Ge106 #Ge261">
+					<abbr>106-261</abbr>
+				</witness>
+				<!-- Gruppi imperfetti -->
+				<witness xml:id="GeL-min-125" corresp="#GeL">
+					<abbr>
+						<hi rend="italics">L</hi>
+						<hi rend="sup">-125</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeL-min-106txt-125" corresp="#GeL">
+					<abbr>
+						<hi rend="italics">L</hi>
+						<hi rend="sup">-106<hi rend="sup">txt</hi> 125</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeL-min-130" corresp="#GeL">
+					<abbr>
+						<hi rend="italics">L</hi>
+						<hi rend="sup">-130</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeL-min-125-130" corresp="#GeL">
+					<abbr>
+						<hi rend="italics">L</hi>
+						<hi rend="sup">-125 130</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeL-min-125-1" corresp="#GeL">
+					<abbr>
+						<hi rend="italics">L</hi>
+						<hi rend="sup">-125'</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeL-min-125-261" corresp="#GeL">
+					<abbr>
+						<hi rend="italics">L</hi>
+						<hi rend="sup">-125 261</hi>
+					</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="DarkGray" xml:lang="gr">
+				<head>Der Catenentext</head>
+				<!-- p. 63 -->
+				<witness xml:id="GeC" corresp="#Ge139 #Ge147 #Ge159 #Ge299 #Ge390 #Ge415 #Ge503 #Ge504 #Ge522 #Ge540 #Ge560 #Ge563 #Ge571 #Ge574 #Ge732 #Ge798">
+					<abbr>
+						<hi rend="italics">C</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GecI" corresp="#Ge157-1 #Ge425 #Ge601 #Ge609">
+					<abbr>
+						<hi rend="italics">cI</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GecII" corresp="#Ge260 #Ge295 #Ge371 #Ge561 #Ge752">
+					<abbr>
+						<hi rend="italics">cII</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-12" corresp="#GeC #GecI #GecII">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1" corresp="#GeC #GecI">
+					<abbr>
+						<hi rend="italics">C'</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-2" corresp="#GeC #GecII">
+					<abbr>
+						<hi rend="italics">C’</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-260" corresp="#GeC-1 #Ge260">
+					<abbr>C'-260</abbr>
+				</witness>
+				<witness xml:id="Ge298-797" corresp="#Ge298 #Ge797">
+					<abbr>298-797</abbr>
+				</witness>
+				<witness xml:id="Ge298-798" corresp="#Ge298 #Ge798">
+					<abbr>298-798</abbr>
+				</witness>
+				<witness xml:id="Ge298-571c" corresp="#Ge298 #Ge571c">
+					<abbr>298-571<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge298-540o" corresp="#Ge298 #Ge540o">
+					<abbr>298-540*</abbr>
+				</witness>
+				<witness xml:id="Ge298-299-571c-797-cII" corresp="#Ge298 #Ge299 #Ge571c #Ge797 #GecII">
+					<abbr>298-299-571<hi rend="sup">c</hi>-797-<hi rend="italics">cII</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge298-299-563-571o-157-1-609-cII-min-260c" corresp="#Ge298 #Ge299 #Ge563 #Ge571o #Ge157-1 #Ge609 #GecII">
+					<abbr>298-299-563-571*-157'-609-<hi rend="italics">cII</hi>
+						<hi rend="sup">-260<hi rend="sup">c</hi>
+						</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge298-cII" corresp="#Ge298 #GecII">
+					<abbr>298-<hi rend="italics">cII</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge298-cII-min-260" corresp="#Ge298 #GecII">
+					<abbr>298-<hi rend="italics">cII<hi rend="sup">-260</hi>
+						</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge298-299-cII" corresp="#Ge298 #Ge299 #GecII">
+					<abbr>298-299-<hi rend="italics">cII</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge390-Ge601-Ge798c-GecII" corresp="#Ge390 #Ge601 #Ge798c #GecII">
+					<abbr>390-601-798<hi rend="sup">c</hi>-<hi rend="italics">cII</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge797-GecII" corresp="#Ge797 #GecII">
+					<abbr>797-<hi rend="italics">cII</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge798-GecII" corresp="#Ge798 #GecII">
+					<abbr>798-<hi rend="italics">cII</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge157-1" corresp="#Ge157 #Ge797">
+					<abbr>157'</abbr>
+				</witness>
+				<witness xml:id="Ge574-798c-cII" corresp="#Ge574 #Ge798c #GecII">
+					<abbr>574-798<hi rend="sup">c</hi>-<hi rend="italics">cII</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge415-571" corresp="#Ge415 #Ge571">
+					<abbr>415-571</abbr>
+				</witness>
+				<witness xml:id="Ge415-609-371" corresp="#Ge415 #Ge609 #Ge371">
+					<abbr>415-609-371</abbr>
+				</witness>
+				<witness xml:id="Ge415-540-732-cI-min-609" corresp="#Ge415 #Ge540 #Ge732 #GecI">
+					<abbr>415-540-732-<hi rend="italics">cI</hi>
+						<hi rend="sup">-609</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge563-571" corresp="#Ge563 #Ge571">
+					<abbr>563-571</abbr>
+				</witness>
+				<witness xml:id="Ge563-571-425txt" corresp="#Ge563 #Ge571 #Ge425txt">
+					<abbr>563-571-425<hi rend="sup">txt</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge522-540-609" corresp="#Ge522 #Ge540 #Ge609">
+					<abbr>522-540-609</abbr>
+				</witness>
+				<witness xml:id="Ge425o-609o-295" corresp="#Ge425o #Ge609o #Ge295">
+					<abbr>425*-609*-295</abbr>
+				</witness>
+				<witness xml:id="Ge260-561" corresp="#Ge260 #Ge561">
+					<abbr>260-561</abbr>
+				</witness>
+				<witness xml:id="Ge571mg-cII" corresp="#Ge571mg #GecII">
+					<abbr>571<hi rend="sup">mg</hi>-<hi rend="italics">cII</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge390-415-504-522-540-571c-732-425txt-601" corresp="#Ge390 #Ge415 #Ge504 #Ge522 #Ge540 #Ge571c #Ge732 #Ge425txt #Ge601">
+					<abbr>390-415-504-522-540-571<hi rend="sup">c</hi>-732-425<hi rend="sup">txt</hi>-601</abbr>
+				</witness>
+				<witness xml:id="Ge390-425mg-798-260o " corresp="#Ge390 #Ge425mg #Ge798 #Ge260o">
+					<abbr>390-425<hi rend="sup">mg</hi>-798-260*</abbr>
+				</witness>
+				<witness xml:id="Ge139c-563-571-798-425-797c" corresp="#Ge139c #Ge563 #Ge571 #Ge798 #Ge425 #Ge797c">
+					<abbr>139<hi rend="sup">c</hi>-563-571-798-425-797<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge147-159-299-503-560" corresp="#Ge147 #Ge159 #Ge299 #Ge503 #Ge560">
+					<abbr>147-159-299-503-560</abbr>
+				</witness>
+				<witness xml:id="Ge390-601" corresp="#Ge390 #Ge601">
+					<abbr>390-601</abbr>
+				</witness>
+				<witness xml:id="Ge390-cII" corresp="#Ge390 #GecII">
+					<abbr>390-<hi rend="italics">cII</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge601-609" corresp="#Ge601 #Ge609">
+					<abbr>601-609</abbr>
+				</witness>
+				<!-- Mss singoli -->
+				<!-- = C -->
+				<witness xml:id="Ge139">
+					<abbr>139</abbr>
+				</witness>
+				<witness xml:id="Ge139c">
+					<abbr>139<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge147">
+					<abbr>147</abbr>
+				</witness>
+				<witness xml:id="Ge159">
+					<abbr>159</abbr>
+				</witness>
+				<witness xml:id="Ge299">
+					<abbr>299</abbr>
+				</witness>
+				<witness xml:id="Ge390">
+					<abbr>390</abbr>
+				</witness>
+				<witness xml:id="Ge415">
+					<abbr>415</abbr>
+				</witness>
+				<witness xml:id="Ge503">
+					<abbr>503</abbr>
+				</witness>
+				<witness xml:id="Ge504">
+					<abbr>504</abbr>
+				</witness>
+				<witness xml:id="Ge522">
+					<abbr>522</abbr>
+				</witness>
+				<witness xml:id="Ge540">
+					<abbr>540</abbr>
+				</witness>
+				<witness xml:id="Ge540o">
+					<abbr>540*</abbr>
+				</witness>
+				<witness xml:id="Ge560">
+					<abbr>560</abbr>
+				</witness>
+				<witness xml:id="Ge563">
+					<abbr>563</abbr>
+				</witness>
+				<witness xml:id="Ge571">
+					<abbr>571</abbr>
+				</witness>
+				<witness xml:id="Ge571o">
+					<abbr>571*</abbr>
+				</witness>
+				<witness xml:id="Ge571mg">
+					<abbr>571<hi rend="sup">mg</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge571c">
+					<abbr>571<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge574">
+					<abbr>574</abbr>
+				</witness>
+				<witness xml:id="Ge732">
+					<abbr>732</abbr>
+				</witness>
+				<witness xml:id="Ge798">
+					<abbr>798</abbr>
+				</witness>
+				<witness xml:id="Ge798c">
+					<abbr>798<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<!-- = C -->
+				<!-- = cI-->
+				<witness xml:id="Ge157">
+					<abbr>157</abbr>
+				</witness>
+				<witness xml:id="Ge425">
+					<abbr>425</abbr>
+				</witness>
+				<witness xml:id="Ge425o">
+					<abbr>425*</abbr>
+				</witness>
+				<witness xml:id="Ge425txt">
+					<abbr>425<hi rend="sup">txt</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge425mg">
+					<abbr>425<hi rend="sup">mg</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge601">
+					<abbr>601</abbr>
+				</witness>
+				<witness xml:id="Ge609">
+					<abbr>609</abbr>
+				</witness>
+				<witness xml:id="Ge609o">
+					<abbr>609*</abbr>
+				</witness>
+				<witness xml:id="Ge797">
+					<abbr>797</abbr>
+				</witness>
+				<witness xml:id="Ge797txt">
+					<abbr>797<hi rend="sup">txt</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge797c">
+					<abbr>797<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<!-- = cI -->
+				<!-- = cII -->
+				<witness xml:id="Ge260">
+					<abbr>260</abbr>
+				</witness>
+				<witness xml:id="Ge260o">
+					<abbr>260*</abbr>
+				</witness>
+				<witness xml:id="Ge260c">
+					<abbr>260<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge260cat">
+					<abbr>260<hi rend="sup">cat</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge295">
+					<abbr>295</abbr>
+				</witness>
+				<witness xml:id="Ge371">
+					<abbr>371</abbr>
+				</witness>
+				<witness xml:id="Ge561">
+					<abbr>561</abbr>
+				</witness>
+				<witness xml:id="Ge752">
+					<!-- Non incluso nella lista dei misti a p. 118, forse perché frammentario (cf. p. 11) -->
+					<abbr>752</abbr>
+				</witness>
+				<witness xml:id="Ge752c">
+					<!-- Non incluso nella lista dei misti a p. 118, forse perché frammentario (cf. p. 11) -->
+					<abbr>752<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<!-- = cII -->
+				<witness xml:id="Ge298">
+					<abbr>298</abbr>
+				</witness>
+				<!-- Gruppi imperfetti -->
+				<witness xml:id="GeC-1-min-797" corresp="#GeC-1">
+					<abbr>C'<hi rend="sup">-797</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-159-298" corresp="#GeC-1">
+					<abbr>C'<hi rend="sup">-159 298</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-min-298" corresp="#GeC">
+					<abbr>C<hi rend="sup">-298</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-min-299-563-571o-min-425-601-260c" corresp="#GeC #Ge425 #Ge601 #Ge260c">
+					<abbr>C<hi rend="sup">-299 563 571*</hi>-425-601-260<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-min-147-159-299-390-503-560-min-157-425-601" corresp="#GeC">
+					<abbr>C<hi rend="sup">-147 159 299 390 503 560</hi>-157-425-601</abbr>
+				</witness>
+				<witness xml:id="GecII-min-260" corresp="#GecII">
+					<abbr>
+						<hi rend="italics">cII</hi>
+						<hi rend="sup">-260</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-12-min--Ge157-1-Ge298-Ge299" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-157' 298 299</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-12-min-Ge157-298-563-571o-609-797" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-157 298 563 571* 609 797</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-Ge571c-Ge798c" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-571<hi rend="sup">c</hi> 798<hi rend="sup">c</hi>
+						</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-157-601" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-157 601</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-299-415-504-574" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298 299 415 504 574</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-299-563-571o" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298 299 563 571*</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min299" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-299</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-299-571c-601-609" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-299 571<hi rend="sup">c</hi> 601 609</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-299-601-609" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298 299 601 609</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min298" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-299-415-797" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298 299 415 797</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-299-798" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298 299 798</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-299" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298 299</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-12-min-298" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-298</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-12-min-298-299" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-298 299</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-390" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-298 390<hi rend="sup">txt</hi>
+						</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-390-425txt" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-298 390 425<hi rend="sup">txt</hi>
+						</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-390-425mg-798-min-260o" corresp="#GeC-1 #Ge260o">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-298 390 425<hi rend="sup">mg</hi> 798</hi>-260*</abbr>
+				</witness>
+				<witness xml:id="GeC-12-min-797" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-797</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-12-min-260o" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-260*</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-12-min-260" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-260</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-12-min-390-574" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-390 574</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-12-min-299-540o-797" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-299 540* 797</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-12-min-298-540o-540c" corresp="#GeC-12">
+					<abbr>
+						<hi rend="italics">C'’</hi>
+						<hi rend="sup">-298-540*</hi>(540<hi rend="sup">c</hi>)</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-522-798" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298 522 798</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-min-260" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298</hi>-260</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-571o" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298 571*</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-571c" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298 571<hi rend="sup">c</hi>
+						</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-571c-161mg-min-248mg-252mg" corresp="#GeC-1 #Ge248mg #Ge252mg">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298 571<hi rend="sup">c</hi> 161mg</hi>-248<hi rend="sup">mg</hi>-252<hi rend="sup">mg</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-298-571c-798" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-298 571<hi rend="sup">c</hi> 798</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min139-147-al-425-601" corresp="#GeC-1">
+					<abbr>
+						<hi rend="italics">C'</hi>
+						<hi rend="sup">-139 147 159 299 503 560 563 571* 798</hi>-425-601</abbr>
+				</witness>
+				<witness xml:id="GeC-1-min-147-159-298-299-503-560-571c" corresp="#GeC-1">
+					<abbr>C'<hi rend="sup">-147 159 298 299 503 560 571<hi rend="sup">c</hi>
+						</hi>
+					</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="DarkGreen" xml:lang="gr">
+				<head>Die d-Gruppe</head>
+				<!-- p. 66 -->
+				<witness xml:id="Ged" corresp="#Ge254 #Ge342 #Ge357 #Ge754">
+					<abbr>
+						<hi rend="italics">d</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge254-1" corresp="#Ge254 #Ge754">
+					<abbr>254'</abbr>
+				</witness>
+				<witness xml:id="Ge342-754" corresp="#Ge342 #Ge754">
+					<abbr>342-754</abbr>
+				</witness>
+				<witness xml:id="Ge357-754" corresp="#Ge357 #Ge754">
+					<abbr>357-754</abbr>
+				</witness>
+				<witness xml:id="Ge254">
+					<abbr>254</abbr>
+				</witness>
+				<witness xml:id="Ge342">
+					<abbr>342</abbr>
+				</witness>
+				<witness xml:id="Ge357">
+					<abbr>357</abbr>
+				</witness>
+				<witness xml:id="Ge754">
+					<abbr>754</abbr>
+				</witness>
+				<!-- Gruppi imperfetti -->
+				<witness xml:id="Ged-min-754" corresp="#Ged">
+					<abbr>
+						<hi rend="italics">d</hi>
+						<hi rend="sup">-754</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ged-min-357" corresp="#Ged">
+					<abbr>
+						<hi rend="italics">d</hi>
+						<hi rend="sup">-357</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ged-min-254" corresp="#Ged">
+					<abbr>
+						<hi rend="italics">d</hi>
+						<hi rend="sup">-254</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ged-min-254-357" corresp="#Ged">
+					<abbr>
+						<hi rend="italics">d</hi>
+						<hi rend="sup">-254 357</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ged-min-357-754" corresp="#Ged">
+					<abbr>
+						<hi rend="italics">d</hi>
+						<hi rend="sup">-357 754</hi>
+					</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="DarkGreen" xml:lang="gr">
+				<head>Die k-Gruppe</head>
+				<!-- p. 66 -->
+				<witness xml:id="Gek" corresp="#Ge46 #Ge337 #Ge631">
+					<abbr>
+						<hi rend="italics">k</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge46-1" corresp="#Ge46 #Ge631">
+					<abbr>46'</abbr>
+				</witness>
+				<witness xml:id="Ge46">
+					<abbr>46</abbr>
+				</witness>
+				<witness xml:id="Ge337">
+					<abbr>337</abbr>
+				</witness>
+				<witness xml:id="Ge337o">
+					<abbr>337*</abbr>
+				</witness>
+				<witness xml:id="Ge631">
+					<abbr>631</abbr>
+				</witness>
+				<!-- Gruppi imperfetti -->
+				<witness xml:id="Gek-min-631" corresp="#Gek">
+					<abbr>
+						<hi rend="italics">k</hi>
+						<hi rend="sup">(-631)</hi>
+					</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="SaddleBrown" xml:lang="gr">
+				<head>Die codices mixti</head>
+				<!-- p. 66 -->
+				<witness xml:id="Ge155">
+					<abbr>155</abbr>
+				</witness>
+				<witness xml:id="Ge161">
+					<abbr>161</abbr>
+				</witness>
+				<witness xml:id="Ge161txt">
+					<abbr>161<hi rend="sup">txt</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge161c">
+					<abbr>161<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge161o">
+					<abbr>161*</abbr>
+				</witness>
+				<witness xml:id="Ge161-252" corresp="#Ge161 #Ge252">
+					<abbr>161-252</abbr>
+				</witness>
+				<witness xml:id="Ge161txt-248txt-252" corresp="#Ge161txt #Ge248txt #Ge252">
+					<abbr>161<hi rend="sup">txt</hi>-248<hi rend="sup">txt</hi>-252</abbr>
+				</witness>
+				<witness xml:id="Ge161-248o-252txt" corresp="#Ge161 #Ge248o #Ge252txt">
+					<abbr>161-248*-252<hi rend="sup">txt</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge161mg-Ge248-mg-Ge252" corresp="#Ge161mg #Ge248mg #Ge252">
+					<abbr>161<hi rend="sup">mg</hi>-248<hi rend="sup">mg</hi>-252</abbr>
+				</witness>
+				<witness xml:id="Ge161mg-248mg" corresp="#Ge161mg #Ge248mg">
+					<abbr>161<hi rend="sup">mg</hi>-248<hi rend="sup">mg</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge161c-248c" corresp="#Ge161c #Ge248c">
+					<abbr>161<hi rend="sup">c</hi>-248<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge161o-248o-252" corresp="#Ge161o #Ge248o #Ge252">
+					<abbr>161*-248*-252</abbr>
+				</witness>
+				<witness xml:id="Ge248">
+					<abbr>248</abbr>
+				</witness>
+				<witness xml:id="Ge248txt">
+					<abbr>248<hi rend="sup">txt</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge248txtc">
+					<abbr>248<hi rend="sup">txt<hi rend="sup">c</hi>
+						</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge248o">
+					<abbr>248*</abbr>
+				</witness>
+				<witness xml:id="Ge248c">
+					<abbr>248<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge252txt">
+					<abbr>252<hi rend="sup">txt</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge161mg">
+					<abbr>161<hi rend="sup">mg</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge248mg">
+					<abbr>248<hi rend="sup">mg</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge248-12" corresp="#Ge161 #Ge248 #Ge252">
+					<abbr>248'’</abbr>
+				</witness>
+				<witness xml:id="Ge248-1" corresp="#Ge161 #Ge248">
+					<abbr>248'</abbr>
+				</witness>
+				<witness xml:id="Ge248-252" corresp="#Ge248 #Ge252">
+					<abbr>248-252</abbr>
+				</witness>
+				<witness xml:id="Ge252">
+					<abbr>252</abbr>
+				</witness>
+				<witness xml:id="Ge252mg">
+					<abbr>252<hi rend="sup">mg</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge296">
+					<abbr>296</abbr>
+				</witness>
+				<witness xml:id="Ge296-1" corresp="#Ge296 #Ge548">
+					<abbr>296'</abbr>
+				</witness>
+				<witness xml:id="Ge311">
+					<abbr>311</abbr>
+				</witness>
+				<witness xml:id="Ge338">
+					<abbr>338</abbr>
+				</witness>
+				<witness xml:id="Ge339">
+					<abbr>339</abbr>
+				</witness>
+				<witness xml:id="Ge359">
+					<abbr>359</abbr>
+				</witness>
+				<witness xml:id="Ge411">
+					<abbr>411</abbr>
+				</witness>
+				<witness xml:id="Ge411o">
+					<abbr>411*</abbr>
+				</witness>
+				<witness xml:id="Ge443">
+					<abbr>443</abbr>
+				</witness>
+				<witness xml:id="Ge443o">
+					<abbr>443*</abbr>
+				</witness>
+				<witness xml:id="Ge443c">
+					<abbr>443<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge539">
+					<abbr>539</abbr>
+				</witness>
+				<witness xml:id="Ge542">
+					<abbr>542</abbr>
+				</witness>
+				<witness xml:id="Ge542txt">
+					<abbr>542<hi rend="sup">txt</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge543">
+					<abbr>543</abbr>
+				</witness>
+				<witness xml:id="Ge547">
+					<abbr>547</abbr>
+				</witness>
+				<witness xml:id="Ge547mg">
+					<abbr>547<hi rend="sup">mg</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge547txt">
+					<abbr>547<hi rend="sup">txt</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge548">
+					<abbr>548</abbr>
+				</witness>
+				<witness xml:id="Ge549">
+					<abbr>549</abbr>
+				</witness>
+				<witness xml:id="Ge645">
+					<abbr>645</abbr>
+				</witness>
+				<witness xml:id="Ge698">
+					<abbr>698</abbr>
+				</witness>
+				<witness xml:id="Ge705">
+					<abbr>705</abbr>
+				</witness>
+				<witness xml:id="Ge706">
+					<abbr>706</abbr>
+				</witness>
+				<witness xml:id="Ge766" corresp="#Ge766A #Ge766B">
+					<abbr>766</abbr>
+				</witness>
+				<witness xml:id="Ge766A">
+					<abbr>776<hi rend="sup">A</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge766Ao">
+					<abbr>766A*</abbr>
+				</witness>
+				<witness xml:id="Ge766B">
+					<abbr>776<hi rend="sup">B</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge770">
+					<abbr>770</abbr>
+				</witness>
+				<witness xml:id="Ge770c">
+					<abbr>770<hi rend="sup">c</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge788">
+					<abbr>788</abbr>
+				</witness>
+				<witness xml:id="Ge788suplin" corresp="#Ge788">
+					<abbr>788<hi rend="sup">sup lin</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge788o" corresp="#Ge788">
+					<abbr>788*</abbr>
+				</witness>
+				<witness xml:id="Ge788mg">
+					<abbr>788<hi rend="sup">mg</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="Ge795">
+					<abbr>795</abbr>
+				</witness>
+				<witness xml:id="Ge3011">
+					<abbr>3011</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="DarkOliveGreen" xml:lang="gr">
+				<head>Die alten Übersetzungen</head>
+				<listWit xml:lang="lat">
+					<witness xml:id="GeLa94">
+						<abbr>La<hi rend="sup">94</hi>
+						</abbr>
+					</witness>
+					<witness xml:id="GeLa95">
+						<abbr>La<hi rend="sup">95</hi>
+						</abbr>
+					</witness>
+					<witness xml:id="GeLa160">
+						<abbr>La<hi rend="sup">160</hi>
+						</abbr>
+					</witness>
+					<witness xml:id="GeLa94-95" corresp="#GeLa94 #GeLa95">
+						<abbr>La<hi rend="sup">94 95</hi>
+						</abbr>
+					</witness>
+				</listWit>
+				<witness xml:id="GeCPA">
+					<abbr>CPA</abbr>
+				</witness>
+				<witness xml:id="GeCo">
+					<abbr>Co</abbr>
+				</witness>
+				<witness xml:id="GeSa">
+					<abbr>Sa</abbr>
+				</witness>
+				<witness xml:id="GeSaI-GeSaII-GeSa5" corresp="#GeSaI #GeSaII #GeSa5">
+					<abbr>Sa<hi rend="sup">I II 5</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaI-GeSaII" corresp="#GeSaI #GeSaII">
+					<abbr>Sa<hi rend="sup">I II</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaI-2" corresp="#GeSaI #GeSa2">
+					<abbr>Sa<hi rend="sup">I 2</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaI-II" corresp="#GeSaI #GeSaII">
+					<abbr>Sa<hi rend="sup">I II</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaI-II-2" corresp="#GeSaI #GeSaII #GeSa2">
+					<abbr>Sa<hi rend="sup">I II 2</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaI-6" corresp="#GeSaI #GeSa6">
+					<abbr>Sa<hi rend="sup">I 6</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaI-II-2-6" corresp="#GeSaI #GeSaII #GeSa2 #GeSa6">
+					<abbr>Sa<hi rend="sup">I II 2 6</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaI-6-7" corresp="#GeSaI #GeSa6 #GeSa7">
+					<abbr>Sa<hi rend="sup">I 6 7</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaI-II-6" corresp="#GeSaI #GeSaII #GeSa6">
+					<abbr>Sa<hi rend="sup">I II 6</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaI-II-2-6-7" corresp="#GeSaI #GeSaII #GeSa2 #GeSa-6 #GeSa7">
+					<abbr>Sa<hi rend="sup">I II 2 6 7</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaI-3" corresp="#GeSaI #GeSa3">
+					<abbr>Sa<hi rend="sup">I 3</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSa2">
+					<abbr>Sa<hi rend="sup">2</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSa6">
+					<abbr>Sa<hi rend="sup">6</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSa7">
+					<abbr>Sa<hi rend="sup">7</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaI">
+					<abbr>Sa<hi rend="sup">I</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSaII">
+					<abbr>Sa<hi rend="sup">II</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeSa5">
+					<abbr>Sa<hi rend="sup">5</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeFa1-Fa2" corresp="#GeFa1 #GeFa2">
+					<abbr>Fa<hi rend="sup">1 2</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeFa1-Fa3" corresp="#GeFa1 #GeFa3">
+					<abbr>Fa<hi rend="sup">1 3</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeFa1-Fa2-Fa3" corresp="#GeFa1 #GeFa2 #GeFa3">
+					<abbr>Fa<hi rend="sup">1 2 3</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeFa1">
+					<abbr>Fa<hi rend="sup">1</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeFa2">
+					<abbr>Fa<hi rend="sup">2</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeFa3">
+					<abbr>Fa<hi rend="sup">3</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeFa2-3">
+					<abbr>Fa<hi rend="sup">2 3</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeAeth">
+					<abbr>Aeth</abbr>
+				</witness>
+				<witness xml:id="GeAethTe">
+					<abbr>Aeth<hi rend="sup">te</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeAethAp">
+					<abbr>Aeth<hi rend="sup">ap</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeGeo">
+					<abbr>Geo</abbr>
+				</witness>
+				<witness xml:id="GeGeoO">
+					<abbr>Geo<hi rend="sup">O</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeArm">
+					<abbr>Arm</abbr>
+				</witness>
+				<witness xml:id="GeArmte">
+					<abbr>Arm<hi rend="sup">te</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeArab">
+					<abbr>Arab</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="blue" xml:lang="gr">
+				<head>Griechische Kommentare</head>
+				<witness xml:id="GeDion">
+					<abbr>Dion</abbr>
+				</witness>
+				<witness xml:id="GeDid">
+					<abbr>Did</abbr>
+				</witness>
+				<witness xml:id="GeDidLem">
+					<abbr>Did<hi rend="sup">Lem</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeDidCom">
+					<abbr>Did<hi rend="sup">com</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeGregNy">
+					<abbr>GregNy</abbr>
+				</witness>
+				<witness xml:id="GePsChr">
+					<abbr>PsChr</abbr>
+				</witness>
+				<witness xml:id="GePsChrLem">
+					<abbr>PsChr<hi rend="sup">lem</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GePsHi">
+					<abbr>PsHi</abbr>
+				</witness>
+				<witness xml:id="GeOl">
+					<abbr>Ol</abbr>
+				</witness>
+				<witness xml:id="GeOlLem">
+					<abbr>Ol<hi rend="sup">Lem</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeOlAp">
+					<abbr>Ol<hi rend="sup">ap</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeOlte">
+					<abbr>Ol<hi rend="sup">te</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeOlCom">
+					<abbr>Ol<hi rend="sup">com</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeMet">
+					<abbr>Met</abbr>
+				</witness>
+				<witness xml:id="GeMetLem">
+					<abbr>Met<hi rend="sup">lem</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeMetCom">
+					<abbr>Met<hi rend="sup">com</hi>
+					</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="royalBlue" xml:lang="gr">
+				<head>Griechische Kirchenschriftsteller</head>
+				<witness xml:id="GeAmmon">
+					<abbr>Ammon</abbr>
+				</witness>
+				<witness xml:id="GeAnast">
+					<abbr>Anast</abbr>
+				</witness>
+				<witness xml:id="GeAntioch">
+					<abbr>Antioch</abbr>
+				</witness>
+				<witness xml:id="GeAnton">
+					<abbr>Anton</abbr>
+				</witness>
+				<witness xml:id="GeAth">
+					<abbr>Ath</abbr>
+				</witness>
+				<witness xml:id="GeBas">
+					<abbr>Bas</abbr>
+				</witness>
+				<witness xml:id="GeConstit">
+					<abbr>Constit</abbr>
+				</witness>
+				<witness xml:id="GeChr">
+					<abbr>Chr</abbr>
+				</witness>
+				<witness xml:id="GeCyr">
+					<abbr>Cyr</abbr>
+				</witness>
+				<witness xml:id="GeCyrHier">
+					<abbr>CyrHier</abbr>
+				</witness>
+				<witness xml:id="GeDam">
+					<abbr>Dam</abbr>
+				</witness>
+				<witness xml:id="GeDamap">
+					<abbr>Dam<hi rend="sup">ap</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeDamte">
+					<abbr>Dam<hi rend="sup">te</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeDionLem">
+					<abbr>Dion<hi rend="sup">lem</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeDionLemCom">
+					<abbr>Dion<hi rend="sup">lem et com</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeEpiph">
+					<abbr>Epiph</abbr>
+				</witness>
+				<witness xml:id="GeEus">
+					<abbr>Eus</abbr>
+				</witness>
+				<witness xml:id="GeOr">
+					<abbr>Or</abbr>
+				</witness>
+				<witness xml:id="GeMax">
+					<abbr>Max</abbr>
+				</witness>
+				<witness xml:id="GeMel">
+					<abbr>Mel</abbr>
+				</witness>
+				<witness xml:id="GeProc">
+					<abbr>Proc</abbr>
+				</witness>
+				<witness xml:id="GePsPros">
+					<abbr>PsPros</abbr>
+				</witness>
+				<witness xml:id="GeSyn">
+					<abbr>Syn</abbr>
+				</witness>
+				<witness xml:id="GeTht">
+					<abbr>Tht</abbr>
+				</witness>
+				<witness xml:id="GeTheog">
+					<abbr>Theog</abbr>
+				</witness>
+			</listWit>
+			<listWit rend="darkRed" xml:lang="lat">
+				<head>Lateinische Kirchenschriftsteller</head>
+				<witness xml:id="GeAmb">
+					<abbr>Amb</abbr>
+				</witness>
+				<witness xml:id="GeAn">
+					<abbr>An</abbr>
+				</witness>
+				<witness xml:id="GeAug">
+					<abbr>Aug</abbr>
+				</witness>
+				<witness xml:id="GeBenA">
+					<abbr>BenA</abbr>
+				</witness>
+				<witness xml:id="GeBrevGoth">
+					<abbr>BrevGoth</abbr>
+				</witness>
+				<witness xml:id="GeCan">
+					<abbr>Can</abbr>
+				</witness>
+				<witness xml:id="GeCass">
+					<abbr>Cass</abbr>
+				</witness>
+				<witness xml:id="GeCassiod">
+					<abbr>Cassiod</abbr>
+				</witness>
+				<witness xml:id="GeChrom">
+					<abbr>Chrom</abbr>
+				</witness>
+				<witness xml:id="GeEuch">
+					<abbr>Euch</abbr>
+				</witness>
+				<witness xml:id="GeEugip">
+					<abbr>Eugip</abbr>
+				</witness>
+				<witness xml:id="GeHiEp">
+					<abbr>Hi <hi rend="italics">Ep</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeHiEph">
+					<abbr>Hi <hi rend="italics">Eph</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeHiPach">
+					<abbr>Hi <hi rend="italics">Pach</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeHiJov">
+					<abbr>Hi <hi rend="italics">Ad Iovin</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeHiIs">
+					<abbr>Hi <hi rend="italics">Is</hi>
+					</abbr>
+				</witness>
+				<witness xml:id="GeHil">
+					<abbr>Hil</abbr>
+				</witness>
+				<witness xml:id="GeIsid">
+					<abbr>Isid</abbr>
+				</witness>
+				<witness xml:id="GeLucif">
+					<abbr>Lucif</abbr>
+				</witness>
+				<witness xml:id="GeJul-T">
+					<abbr>Jul-T</abbr>
+				</witness>
+				<witness xml:id="GePetrChr">
+					<abbr>PetrChr</abbr>
+				</witness>
+				<witness xml:id="GeSalv">
+					<abbr>Salv</abbr>
+				</witness>
+				<witness xml:id="GeSedScot">
+					<abbr>SedScot</abbr>
+				</witness>
+				<witness xml:id="GeSpec">
+					<abbr>Spec</abbr>
+				</witness>
+				<witness xml:id="GePel">
+					<abbr>Pel</abbr>
+				</witness>
+				<witness xml:id="GePot">
+					<abbr>Pot</abbr>
+				</witness>
+				<witness xml:id="GePsAug">
+					<abbr>PsAug</abbr>
+				</witness>
+				<witness xml:id="GeRuf">
+					<abbr>Ruf</abbr>
+				</witness>
+				<witness xml:id="GeTyc">
+					<abbr>Tyc</abbr>
+				</witness>
+			</listWit>
+			<listWit xml:lang="gr">
+				<head>Editions</head>
+				<!-- p. 48 -->
+				<witness xml:id="GeSixt">
+					<abbr>Sixt</abbr>
+				</witness>
+				<witness xml:id="GCompl.">
+					<abbr>Compl.</abbr>
+					<expan>Cardinal Ximenes' Polyglot Bible, Alcala, 1514-17; eclectic text</expan>
+				</witness>
+				<witness xml:id="GAld.">
+					<abbr>Ald.</abbr>
+					<expan>Aldine edition, Venice, 1518; eclectic text</expan>
+				</witness>
+				<witness xml:id="GAlex.">
+					<abbr>Gra</abbr>
+					<expan>Grabe's edition, Oxford, 1707-20; based on the <hi rend="italics">Codex
+                            Alexandrinus</hi>
+					</expan>
+				</witness>
+				<witness xml:id="HP">
+					<abbr>HP</abbr>
+					<expan>Holmes-Parson collaction; reference edition: <hi rend="italics">editio sixtina</hi> (or <hi rend="italics">romana</hi>, 1587), based on the <hi rend="italics">Codex Vaticanus</hi>
+					</expan>
+				</witness>
+				<witness xml:id="Sw">
+					<abbr>Sw.</abbr>
+					<expan>Swete's edition; based on the <hi rend="italics">Codex Vaticanus</hi>
+					</expan>
+				</witness>
+				<witness xml:id="GTi">
+					<abbr>Ti.</abbr>
+					<expan>Tischendorf; based on the <hi rend="italics">sixtina</hi>
+					</expan>
+				</witness>
+				<witness xml:id="GRah">
+					<abbr>Ra</abbr>
+					<expan>Rahlfs</expan>.</witness>
+				<witness xml:id="Ge">
+					<abbr>Ge</abbr>
+					<expan>Gentry</expan>.</witness>
+				<witness xml:id="GWal">
+					<abbr>Wal</abbr>
+					<expan>London Polyglott</expan>.</witness>
+			</listWit>
+		</listWit>
+	</listWit>
+	<listWit>
+		<head>Revisors</head>
+		<listWit xml:lang="gr">
+			<witness xml:id="GTres">οι Γ nella Siro-hexapla</witness>
+			<witness xml:id="GAq">
+				<abbr>Aq</abbr>
+				<expan>Aquila</expan>
+			</witness>
+			<witness xml:id="GSm">
+				<abbr>Sm</abbr>
+				<expan>Symmach</expan>
+			</witness>
+			<witness xml:id="GTh">
+				<abbr>Th</abbr>
+				<expan>Theodotion</expan>
+			</witness>
+		</listWit>
+		<listWit xml:lang="lat">
+			<witness xml:id="HiG">
+				<abbr>Hi<hi rend="sup">G</hi>
+				</abbr>
+				<expan>Jerome's Latin translation from Greek</expan>
+			</witness>
+			<witness xml:id="HiAq">
+				<abbr>Hi<hi rend="sup">Aq</hi>
+				</abbr>
+				<expan>Jerome's translation of Aquila</expan>
+			</witness>
+			<witness xml:id="HiSm">
+				<abbr>Hi<hi rend="sup">Sm</hi>
+				</abbr>
+				<expan>Jerome's translation of Symmach</expan>
+			</witness>
+			<witness xml:id="HiTh">
+				<abbr>Hi<hi rend="sup">Th</hi>
+				</abbr>
+				<expan>Jerome's translation of Theodotion</expan>
+			</witness>
+		</listWit>
+	</listWit>
+	<listWit>
+		<head>Syro-Hexapla</head>
+		<listWit xml:lang="syr">
+			<witness xml:id="Syh">
+				<abbr>Syh</abbr>
+				<expan>Syro-Hexapla Cod. 313 Inf., Biblioteca Ambrosiana, VIII.</expan>
+			</witness>
+			<witness xml:id="SyhAq">
+				<abbr>Syh<hi rend="sup">Aq</hi>
+				</abbr>
+				<expan>Syriac translation of Aquila</expan>
+			</witness>
+			<witness xml:id="SyhSm">
+				<abbr>Syh<hi rend="sup">Sm</hi>
+				</abbr>
+				<expan>Syriac translation of Symmach</expan>
+			</witness>
+			<witness xml:id="SyhTh">
+				<abbr>Syh<hi rend="sup">Th</hi>
+				</abbr>
+				<expan>Syriac translation of Theodotion</expan>
+			</witness>
+			<witness xml:id="Syhmg">
+				<abbr>Syh<hi rend="sup">mg</hi>
+				</abbr>
+			</witness>
+		</listWit>
+		<listWit xml:lang="gr">
+			<witness xml:id="GSyh">Greek retroversions from Syr</witness>
+			<witness xml:id="GSyhmg">Greek retroversions of marginal readings from Syr</witness>
+		</listWit>
+	</listWit>
+	<!-- FAMIGLIA DEI TESTIMONI LATINI -->
+	<listWit xml:lang="lat">
+		<head>Jerome</head>
+		<witness xml:id="Hi">
+			<abbr>Hi</abbr>
+			<expan>Jerome's commentary lemmas, critical Text of Adrien's edition</expan>
+		</witness>
+		<witness xml:id="V">
+			<abbr>V</abbr>
+			<expan>Critical Text of Weber's edition</expan>
+		</witness>
+		<witness xml:id="HiCom">
+			<abbr>Hi<hi rend="sup">Com</hi>
+			</abbr>
+			<expan>Jerome's commentary, critical Text of Adrien's edition</expan>
+		</witness>
+		<witness xml:id="HiIt">
+			<abbr>Hi<hi rend="sup">It</hi>
+			</abbr>
+			<expan>Jerome's quotations from the Vetus Itala</expan>
+		</witness>
+		<witness xml:id="HiM">
+			<abbr>M<hi rend="sup">Hi</hi>
+			</abbr>
+			<expan>Jerome's transliteration from the Hebrew text</expan>
+		</witness>
+		<!-- EDIZIONI -->
+		<listWit xml:lang="lat">
+			<witness xml:id="VGqC">C<expan>Cavensis, Abb. 1 (14). S. IX.</expan>
+			</witness>
+			<witness xml:id="VGqLast">L*</witness>
+			<witness xml:id="VGqA">A<expan>(<hi rend="italics">Amiatinus</hi>) Florentinus, Laurent. S. VII-VIII</expan>
+			</witness>
+			<witness xml:id="VGqL.">L<expan>Londiniensis, Egerton. 1046. S. VIII.</expan>
+			</witness>
+			<witness xml:id="VGqL2">L2</witness>
+			<witness xml:id="VGqM">M<expan>(<hi rend="italics">Maurdrammi</hi>) Ambianensis, 12. S. VIII ex.</expan>
+			</witness>
+			<witness xml:id="VGqS">S<expan>(<hi rend="italics">Sangallensis</hi>) Sangallensis, Abb. 28. S. IX in.</expan>
+			</witness>
+			<witness xml:id="VGqW">W<expan>(<hi rend="italics">Weingartensis</hi>) Stuttgartensis, H. B. II. 35. S. VIII-IX</expan>
+			</witness>
+			<witness xml:id="VGqΓ">Γ</witness>
+			<witness xml:id="VGqΘΗ">Θ<hi rend="sup">H</hi>
+				<expan>Londinensis 24142. S. IX.</expan>
+			</witness>
+			<witness xml:id="VGqΠH">Π<hi rend="sup">H</hi>
+				<expan>(<hi rend="italics">Casinensis</hi>) Abb. 553. S. XI in.</expan>
+			</witness>
+			<witness xml:id="VGqΣΤast">Σ<hi rend="sup">Τ*</hi>
+			</witness>
+			<witness xml:id="VGqΦP">Φ<hi rend="sup">P</hi>
+				<expan>(<hi rend="italics">Paulinus</hi>) Romanus, Abb. S. Pauli extra Muros. S.
+                IX</expan>
+			</witness>
+			<witness xml:id="VGqΧ">Χ<expan>
+					<hi rend="italics">Complutensis</hi>
+					<hi rend="sup">1</hi> Matritensis, Univ. Centr. 31. S.
+                X.</expan>
+			</witness>
+			<witness xml:id="VGqΩJ">Ω<hi rend="sup">J</hi>
+				<expan>(<hi rend="italics">Correctorium S. Iacobi</hi>) Parisinus lat. 16721. S.
+                    XIII</expan>
+			</witness>
+			<witness xml:id="VGqΩs">Ω<hi rend="sup">S</hi>
+				<expan>(<hi rend="italics">Universitatis</hi>) seu <hi rend="italics">Sorbonicus</hi>
+                    Parisinus lat. 15467, a. 1270</expan>
+			</witness>
+			<witness xml:id="VGqΩΜ">Ω<hi rend="sup">Μ</hi>
+			</witness>
+			<witness xml:id="VGqZ">Z<expan>Matensis 7, S. VIII-IX</expan>
+			</witness>
+			<witness xml:id="VGqm">m<expan>
+					<hi rend="italics">fragm. e cod. rescripto</hi> Sangallensi, Abb. 194. S. VII-VIII</expan>
+			</witness>
+		</listWit>
+		
+		<listWit xml:lang="lat">
+			<head>Printed editions</head>
+			<witness xml:id="VGqa">a<expan>Editio princeps, 42 lin. dicta (Moguntiae?), a. 1452(?), e Bibl. Vat. Barb. AAA IV. 17</expan>
+			</witness>
+			<witness xml:id="VGqg">g<expan>Editio Gobelini Laridii, Coloniae, a. 1530</expan>
+			</witness>
+			<witness xml:id="VGqr">r<expan>Editio Roberti Stephani secunda, Parisiis, a. 1532</expan>
+			</witness>
+			<witness xml:id="VGqe">e<expan>Editio Roberti Stephani quarta, Parisiis, a. 1540</expan>
+			</witness>
+			<witness xml:id="VGql">l<expan>Editio Theologorum Lovaniensium, Antverpiae, a. 1583</expan>
+			</witness>
+			<witness xml:id="VGqs">s<expan>Editio Sixti V Pont. Max., a. 1590</expan>
+			</witness>
+			<witness xml:id="VGqc">c<expan>Editio Clementis VIII Pont. Max., a. 1592</expan>
+			</witness>
+		</listWit>
+	</listWit>
+	<listWit xml:id="commentarius" xml:lang="lat">
+		<witness xml:id="HiW">W<expan>codex Wirceburgensis Mp. th. q. 2., saec. V</expan>
+		</witness>
+		<witness xml:id="HiP">P<expan>codex Parisinus Latinus, Biblioth. nationale 13.349, saec. VIII</expan>
+		</witness>
+		<witness xml:id="HiPal1">Pal<hi rend="sup">1</hi>
+			<expan>codex Vaticanus Palatinus 79, anno 1474</expan>
+		</witness>
+		<witness xml:id="HiPal2">Pal<hi rend="sup">2</hi>
+			<expan>codex Vaticanus Palatinus 175, saec. X</expan>
+		</witness>
+		<witness xml:id="HiVat">Vat<expan>codex Vaticanus Latinus 318, hodie deperditus</expan>
+		</witness>
+		<witness xml:id="HiVict">Vict.<expan>editio Victorii Mariani, Romae, 1566 ("e codicibus Florentinis et Brixiansis")</expan>
+		</witness>
+		<witness xml:id="Hin">
+			<foreign xml:lang="gr">ν</foreign>
+			<expan>editio Dominici Vallarsi, t. III, Veronae, 1735 (e codd. <hi rend="italics">Pal.</hi>
+				<hi rend="sup">1.2</hi>, <hi rend="italics">Vat.</hi>, <hi rend="italics">Vall.</hi>
+			</expan>
+		</witness>
+	</listWit>
+	<!-- FAMIGLIA DEI TESTIMONI SIRIACI -->
+	<listWit xml:lang="syr">
+		<head>Peshitta</head>
+		<witness xml:id="P">
+			<abbr>P</abbr>
+			<expan>Peshitta, Leiden's edition</expan>
+		</witness>
+		<witness xml:id="P7a1">
+			<abbr>7a1</abbr>
+			<expan>Ms. B. 21 Inferiore, Ambrosian Libr., Milan</expan>
+		</witness>
+		<witness xml:id="P7g2">
+			<abbr>7g2</abbr>
+			<expan>Add. Ms. 14,443, fols. 72<hi rend="sup">a</hi>-81<hi rend="sup">b</hi> Brit. Libr.,
+                London</expan>
+		</witness>
+		<witness xml:id="P8a1">
+			<abbr>8a1</abbr>
+			<expan>Syr. Ms. 341, fols. 124<hi rend="sup">a</hi>-126<hi rend="sup">a</hi> Nat. Libr.,
+            Paros</expan>
+		</witness>
+		<witness xml:id="P8a1c">
+			<abbr>8a1<hi rend="sup">c</hi>
+			</abbr>
+		</witness>
+		<witness xml:id="P8a1ast">
+			<abbr>8a1*</abbr>
+		</witness>
+		<witness xml:id="P9c1">
+			<abbr>9c1</abbr>
+			<expan>Syr. Ms. 372, fols. 132<hi rend="sup">b</hi>-137<hi rend="sup">b</hi> Nat. Libr.,
+            Paris</expan>
+		</witness>
+		<witness xml:id="P10c1">
+			<abbr>10c1</abbr>
+			<expan>Ms. B 47b, fols. 221<hi rend="sup">a</hi>-227<hi rend="sup">b</hi> Beinecke Rare Book Libr.,
+                New Haven (Connecticut)</expan>
+		</witness>
+		<witness xml:id="P11c1">
+			<abbr>11c1</abbr>
+			<expan>Add. Ms. 14,440, fols. 289<hi rend="sup">b</hi>-297<hi rend="sup">b</hi> Brit. Libr.,
+                London</expan>
+		</witness>
+		<witness xml:id="P12a1">
+			<abbr>12a1</abbr>
+			<expan>Ms. Oo 1.1, fols. 131<hi rend="sup">a</hi>-132<hi rend="sup">b</hi> Un. Libr.,
+                Cambridge</expan>
+		</witness>
+		<witness xml:id="P12a1fam">
+			<abbr>12a1<hi rend="italics">fam</hi>
+			</abbr>
+			<expan>(= 12a1 15a2 16g6 17a1-5.10) 19g5.7</expan>
+		</witness>
+	</listWit>
+</listWit>

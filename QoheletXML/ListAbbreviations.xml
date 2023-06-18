@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="abbr" type="section">
+    <head>Abbreviations and symbols</head>
+
+    <div xml:id="analysis" type="subsection">
+        <head>Used in the Collation and in the critical apparatus</head>
+        <div>
+            <head>Linguistic annotation</head>
+            <interp xml:id="gn">gender</interp>
+            <interp xml:id="tense">verbal tense</interp>
+            <interp xml:id="adj">adjective</interp>
+            <interp xml:id="add">addition</interp>
+            <interp xml:id="del">deletion</interp>
+            <interp xml:id="subst">substitution</interp>
+            <interp xml:id="trasp">transposition</interp>            
+            <interp xml:id="sem">semantic</interp>
+            <interp xml:id="interr">interrogative</interp>
+            <interp xml:id="scrpl" rend="italics">scriptio plena</interp>
+            <interp xml:id="scrdf" rend="italics">scriptio defectiva</interp>
+            <interp xml:id="prn.">pronoun</interp>
+            <interp xml:id="ps.">personal</interp>
+            <interp xml:id="n.">noun</interp>
+            <interp xml:id="suff">suffix</interp>
+            <interp xml:id="cj.">conjunction</interp>
+            <interp xml:id="cop">copulative conjunction</interp>
+            <interp xml:id="v.">verb</interp>
+            <interp xml:id="nb.">number</interp>
+            <interp xml:id="neg">negative particle</interp>
+            <interp xml:id="morph">morphological</interp>
+            <interp xml:id="art">article</interp>
+            <interp xml:id="part">particle</interp>
+            <interp xml:id="prep">preposition</interp>
+            <interp xml:id="rl.">relative</interp>
+            <interp xml:id="dm.">demonstrative</interp>
+            <interp xml:id="notaAcc.">nota accusativi</interp>
+            <interp xml:id="adv">adverb</interp>
+            <interp xml:id="span">span</interp>
+        </div>
+
+        <div>
+            <head>Characterization of the variants (§ <ptr target="#subsect-characterisation"/>)</head>
+            <interp xml:id="praef" type="hidden">lectio praeferenda</interp>
+            <interp xml:id="assim">assimilation</interp>
+            <interp xml:id="harm">harmonization</interp>
+            <interp xml:id="hapl">haplography</interp>
+            <interp xml:id="ditt">dittography</interp>
+            <interp xml:id="confl">conflation</interp>
+            <interp xml:id="homeoarcht">homeoarchton</interp>
+            <interp xml:id="homeot">homeoteleuton</interp>
+            <interp xml:id="metath">metathesis</interp>
+            <interp xml:id="interp">interpretative</interp>
+            <interp xml:id="corr">correction</interp>
+            <interp xml:id="ideol">ideological variant</interp>
+            <interp xml:id="theol">theological variant</interp>
+            <interp xml:id="crux" type="hidden">crux desperationis</interp>
+            <interp xml:id="exeg">exegetical variant</interp>
+            <interp xml:id="crrp">corruption/corrupted</interp>
+            <interp xml:id="orig" type="hidden">original</interp>
+            <interp xml:id="gl">gloss</interp>
+            <interp xml:id="facil" rend="italics">lectio facilior</interp>
+            <interp xml:id="indet">indeterminate</interp>
+            <interp xml:id="insuff">insufficient</interp>
+            <interp xml:id="graph">orthographic change</interp>
+            <interp xml:id="voc">vocalization error</interp>
+            <interp xml:id="misd">error of misdivision of words</interp>
+            <!--<interp xml:id="incert">usato quando l'attribuzione delle varianti è incerta, per esempio con i revisori (es. 12:4, con la lezione di
+                Aquila che può essere attribuita a due lemmi diversi); oppure quando non si è certi del fenomeno in question, es. 12:6 G ἀνατραπῇ, che
+                POTREBBE essere interpretazione di TM ma anche no</interp>-->
+        </div>
+        <div>
+            <head>Criteria of classification</head>
+            <interp xml:id="literal">High degree of literalism by the translator</interp>
+            <interp xml:id="diffTran">Difficulty of translation</interp>
+            <interp xml:id="HebSup">External support from Hebrew manuscripts</interp>
+            <interp xml:id="converg">Convergence of stemmatically distant traditions</interp>
+            <interp xml:id="maxPar">Maximum parsimony</interp>
+            <interp xml:id="psdeudoVar">Pseudo-variants caused by an aural or graphic error</interp>
+        </div>
+        <div>
+            <head>Criteria of evaluation</head>
+            <div>
+                <head>External criteria</head>
+                <interp xml:id="majRead">Majority reading</interp>
+                <interp xml:id="bestMs">Best manuscript/tradition reading</interp>
+                <interp xml:id="ancient">More ancient reading</interp>
+            </div>
+            <div>
+                <head>Internal criteria</head>
+                <interp xml:id="utrum">utrum in alterum</interp>
+                <interp xml:id="diff">lectio difficilior</interp>
+                <interp xml:id="non-assim">non-assimilated reading</interp>
+                <interp xml:id="non-harm">non-harmonized reading</interp>
+                <interp xml:id="brev">lectio brevior</interp>
+                <interp xml:id="usus">usus scribendi</interp>
+                <interp xml:id="loci">loci paralleli</interp>
+                <interp xml:id="content">Best content or literary sense</interp>
+            </div>
+        </div>
+    </div>
+
+    <div type="subsection">
+        <head>Used in the Commentary</head>
+        <div>
+            <list>
+                <item>
+                    <label>4QQoh<hi rend="sup">a</hi></label>
+                    <expan>First fragment from Qumran (§ <ptr target="#subsect-data-Q"/>)</expan>
+                </item>
+                <item>
+                    <label>4QQoh<hi rend="sup">b</hi></label>
+                        <expan>Second fragment from Qumran</expan>
+                </item>
+                <item>
+                    <label>Aq</label>
+                    <expan>Aquila (§ <ptr target="#subsect-data-Revisors"/>)</expan>
+                </item>
+                <item>
+                    <label>BA</label>
+                    <expan>Biblical Aramaic</expan>
+                </item>
+                <item>
+                    <label>BH</label>
+                    <expan><hi rend="italics">Biblia Hebraica</hi> series (§ <ptr target="#sect-why-a-new-critical-edition"/>)</expan>
+                </item>
+                <item>
+                    <label>BHK</label>
+                    <expan>First edition of the <hi rend="italics">Biblia Hebraica</hi>, edited by Kittel</expan>
+                </item>
+                <item>
+                    <label>BH<hi rend="sup">3</hi></label>
+                    <expan>Third edition of the <hi rend="italics">Biblia Hebraica</hi></expan>
+                </item>
+                <item>
+                    <label>BHQ</label>
+                    <expan><hi rend="italics">Biblia Hebraica Quinta</hi></expan>
+                </item>
+                <item>
+                    <label>BHS</label>
+                    <expan><hi rend="italics">Biblia Hebraica Stuttgartensia</hi></expan>
+                </item>
+                <item>
+                    <label>G</label>
+                    <expan>Greek Version</expan>
+                </item>
+                <item>
+                    <label>G Qoh</label>
+                    <expan>Greek Version of Qohelet</expan>
+                </item>
+                <item>
+                    <label>G<hi rend="sup">998</hi></label>
+                        <expan>Greek Hamburg papyrus</expan> (§ <ptr target="#subsect-data-G"/>)
+                </item>
+                <item>
+                    <label>G<hi rend="sup">A</hi></label>
+                        <expan>Greek <hi rend="italics">Codex Alexandrinus</hi></expan>
+                </item>
+                <item>
+                    <label>G<hi rend="sup">B</hi></label>
+                        <expan>Greek <hi rend="italics">Codex Vaticanus</hi></expan>
+                </item>
+                <item>
+                    <label>G<hi rend="sup">C</hi></label>
+                        <expan>Greek <hi rend="italics">Codex Ephraemi rescriptus</hi></expan>
+                </item>
+                <item>
+                    <label>G<hi rend="sup">S</hi></label>
+                        <expan>Greek <hi rend="italics">Codex Sinaiticus</hi></expan>
+                </item>
+                <item>
+                    <label>G<hi rend="sup">S*</hi></label>
+                        <expan>First hand of <hi rend="italics">Codex Sinaiticus</hi></expan>
+                </item>
+                <item>
+                    <label>G<hi rend="sup">S<hi rend="sup">c</hi></hi></label>
+                        <expan>Second hand of <hi rend="italics">Codex Sinaiticus</hi></expan>
+                </item>
+                <item>
+                    <label>G<hi rend="sup">V</hi></label>
+                        <expan>Greek <hi rend="italics">Codex Venetus</hi></expan>
+                </item>
+                <item>
+                    <label>G<hi rend="sup">Mss</hi></label>
+                        <expan>Greek manuscripts</expan>
+                </item>
+                <item>
+                    <label>HB</label>
+                    <expan>Hebrew Bible</expan>
+                </item>
+                <!--<item>
+                    <label>HBCE</label>
+                    <expan><hi rend="italics">Hebrew Bible: A Critical Edition</hi> (§ <ptr target="#sect-why-a-new-critical-edition"/>)</expan>
+                </item>
+                <item>
+                    <label>HUB</label>
+                    <expan><hi rend="italics">Hebrew University Bible</hi> (§ <ptr target="#sect-why-a-new-critical-edition"/>)</expan>
+                </item>-->
+                <item>
+                    <label>Hi</label>
+                    <expan>Lemma of Jerome's <hi xml:lang="latin">Commentarius in Ecclesiasten</hi> (§ <ptr target="#subsect-data-Jer"/>)</expan>
+                </item>
+                <item>
+                    <label>Hi<hi rend="sup">Com</hi></label>
+                    <expan>Note of Jerome's <hi xml:lang="latin">Commentarius in Ecclesiasten</hi> (§ <ptr target="#subsect-data-Jer"/>)</expan>
+                </item>
+                <item>
+                    <label>LH</label>
+                    <expan>Late Hebrew</expan>
+                </item>
+                <item>
+                    <label>LXX</label>
+                    <expan>Septuagint</expan>
+                </item>
+                <item>
+                    <label>M</label>
+                    <expan>Masoretic text</expan>
+                </item>
+                <item>
+                    <label>MH</label>
+                    <expan>Mishnaic Hebrew</expan>
+                </item>
+                <item>
+                    <label>M<hi rend="sup">Hi</hi></label>
+                    <expan>Transliterations of the Masoretic text in Jerom'es Commentary (§ <ptr target="#subsect-data-M"/>)</expan>
+                </item>
+                <item>
+                    <label>M<hi rend="sup">L</hi></label>
+                    <expan><hi rend="italics">Codex Leningradensis</hi> (§ <ptr target="#subsect-data-M"/>)</expan>
+                </item>
+                <item>
+                    <label>M<hi rend="sup">Mss</hi></label>
+                    <expan>Hebrew Medieval manuscripts</expan>
+                </item>
+                <item>
+                    <label>Ms</label>
+                    <expan>Manuscript</expan>
+                </item>
+                <item>
+                    <label>Mss</label>
+                    <expan>Manuscripts</expan>
+                </item>
+                <item>
+                    <label>G*</label>
+                    <expan>Original Greek</expan>
+                </item>
+                <item>
+                    <label>OL</label>
+                    <expan>Old Latin</expan>
+                </item>
+                <item>
+                    <label>P*</label>
+                    <expan>Original text of the Peshitta</expan>
+                </item>
+                <item>
+                    <label>T*</label>
+                    <expan>Original text of the Targum</expan>
+                </item>
+                <item>
+                    <label>V*</label>
+                    <expan>Original text of the Vulgate</expan>
+                </item>
+                <item>
+                    <label>P</label>
+                    <expan>Syriac Version of the Peshitta (§ <ptr target="#subsect-data-P"/>)</expan>
+                </item>
+                <item>
+                    <label>P Qoh</label>
+                    <expan>Peshitta of Qohelet</expan>
+                </item>
+                <item>
+                    <label>Sm</label>
+                    <expan>Symmachus (§ <ptr target="#subsect-data-Revisors"/>)</expan>
+                </item>
+                <item>
+                    <label>Syh</label>
+                    <expan>Syro-hexapla (§ <ptr target="#subsect-data-G"/>)</expan>
+                </item>
+                <item>
+                    <label>T</label>
+                    <expan>Targum (§ <ptr target="#subsect-data-T"/>)</expan>
+                </item>
+                <item>
+                    <label>T<hi rend="sup">110</hi></label>
+                    <expan>Paris manuscript 110 of the Targum</expan>
+                </item>
+                <item>
+                    <label>T<hi rend="sup">S</hi></label>
+                    <expan>Sperber's manuscript of the Targum</expan>
+                </item>
+                <item>
+                    <label>T<hi rend="sup">Z</hi></label>
+                    <expan>Zamora's manuscript of the Targum</expan>
+                </item>
+                <item>
+                    <label>Th</label>
+                    <expan>Theodotion (§ <ptr target="#subsect-data-Revisors"/>)</expan>
+                </item>
+                <item>
+                    <label>V</label>
+                    <expan>Vulgate (§ <ptr target="#subsect-data-Jer"/>)</expan>
+                </item>
+                <item>
+                    <label>v.</label>
+                    <expan>verse</expan>
+                </item>
+                <item>
+                    <label>vs</label>
+                    <expan>versus</expan>
+                </item>
+                <item>
+                    <label>vv.</label>
+                    <expan>verses</expan>
+                </item>
+            </list>
+        </div>
+        <div>
+            <head>Biblical Books</head>
+            <list type="biblicalBooks">                
+                <item xml:id="Gen"><abbr>Gen</abbr> <expan>Genesis</expan></item>
+                <item xml:id="Ex"><abbr>Exod</abbr> <expan>Exodus</expan></item>
+                <item xml:id="Lev"><abbr>Lev</abbr> <expan>Leviticus</expan></item>
+                <item xml:id="Num"><abbr>Num</abbr> <expan>Numbers</expan></item>
+                <item xml:id="Deut"><abbr>Deut</abbr> <expan>Deuteronomy</expan></item>
+                <item xml:id="Jos"><abbr>Josh</abbr> <expan>Joshua</expan></item>
+                <item xml:id="Jud"><abbr>Judg</abbr> <expan>Judges</expan></item>
+                <item xml:id="ISam"><abbr>1Sam</abbr> <expan>1 Samuel</expan></item>
+                <item xml:id="IISam"><abbr>2Sam</abbr> <expan>2 Samuel</expan></item>
+                <item xml:id="IKing"><abbr>1Kgs</abbr> <expan>1 Kings</expan></item>
+                <item xml:id="IIKing"><abbr>2Kgs</abbr> <expan>2 Kings</expan></item>
+                <item xml:id="Jes."><abbr>Isa</abbr> <expan>Isaiah</expan></item>
+                <item xml:id="Jer."><abbr>Jer</abbr> <expan>Jeremy</expan></item>
+                <item xml:id="Ezek."><abbr>Ezek</abbr> <expan>Ezekiel</expan></item>
+                <item xml:id="Ho"><abbr>Hos</abbr> <expan>Hosea</expan></item>
+                <item xml:id="Amos"><abbr>Amos</abbr> <expan>Amos</expan></item>
+                <item xml:id="Jon"><abbr>Jonah</abbr> <expan>Jonah</expan></item>
+                <item xml:id="Mich"><abbr>Mic</abbr> <expan>Micah</expan></item>
+                <item xml:id="Nahum"><abbr>Nah</abbr> <expan>Nahum</expan></item>
+                <item xml:id="Hab"><abbr>Hab</abbr> <expan>Habakkuk</expan></item>
+                <item xml:id="Zeph"><abbr>Zeph</abbr> <expan>Zephaniah</expan></item>
+                <item xml:id="Zech"><abbr>Zech</abbr> <expan>Zechariah</expan></item>
+                <item xml:id="Mal"><abbr>Mal</abbr> <expan>Malachi</expan></item>
+                <item xml:id="Ps."><abbr>Ps</abbr> <expan>Psalms</expan></item>
+                <item xml:id="Job"><abbr>Job</abbr> <expan>Job</expan></item>
+                <item xml:id="Prov"><abbr>Prov</abbr> <expan>Proverbs</expan></item>
+                <item xml:id="Song"><abbr>Cant</abbr> <expan>Canticles</expan></item>
+                <item xml:id="Eccl."><abbr>Qoh</abbr> <expan>Qohelet</expan></item>
+                <item xml:id="Lam"><abbr>Lam</abbr> <expan>Lamentations</expan></item>
+                <item xml:id="Esth"><abbr>Esth</abbr> <expan>Esther</expan></item>
+                <item xml:id="Dan"><abbr>Dan</abbr> <expan>Daniel</expan></item>
+                <item xml:id="IEzra"><abbr>Ezra</abbr> <expan>Ezra</expan></item>
+                <item xml:id="Neh"><abbr>Neh</abbr> <expan>Nehemiah</expan></item>
+                <item xml:id="ICh"><abbr>1Chr</abbr> <expan>1 Chronicles</expan></item>
+                <item xml:id="IICh"><abbr>2Chr</abbr> <expan>2 Chronicles</expan></item>
+                <item xml:id="Wis"><abbr>Wisd</abbr> <expan>Wisdom</expan></item>
+                <item xml:id="Sir"><abbr>Sir</abbr> <expan>Sirach</expan></item>
+                <item xml:id="Matt"><abbr>Matt</abbr> <expan>Matthew</expan></item>
+                <item xml:id="Luk"><abbr>Luke</abbr> <expan>Luke</expan></item>
+            </list>
+        </div>
+    </div>
+</div>
+
